@@ -215,8 +215,7 @@
         ],
         "reverse_requisites": [
             "SEL0604",
-            "SEL0609",
-            "SEL0616"
+            "SEL0609"
         ]
     },
     "SEL0628": {
@@ -252,8 +251,7 @@
         ],
         "reverse_requisites": [
             "SEL0608",
-            "SMA0393",
-            "SEL0460"
+            "SMA0393"
         ]
     },
     "SME0340": {
@@ -292,7 +290,6 @@
             "SSC0770",
             "SSC0961",
             "SCC0650",
-            "SCC0252",
             "SCC0652"
         ]
     },
@@ -381,7 +378,6 @@
         "reverse_requisites": [
             "SSC0640",
             "SEL0614",
-            "SSC0903",
             "SEL0338",
             "SSC0740",
             "SSC0643"
@@ -469,7 +465,6 @@
             "SME0823",
             "SME0121",
             "SME0130",
-            "SME0878",
             "SEL0367"
         ]
     },
@@ -624,8 +619,7 @@
         "type": "Obrigatória",
         "semester": "7",
         "requisites": [
-            "SEL0604",
-            "SEL0602"
+            "SEL0604"
         ],
         "reverse_requisites": [
             "SEL0619",
@@ -685,7 +679,6 @@
         "type": "Obrigatória",
         "semester": "7",
         "requisites": [
-            "SSC0902",
             "SSC0640"
         ],
         "reverse_requisites": []
@@ -1034,7 +1027,6 @@
         "semester": "6",
         "requisites": [
             "SEL0607",
-            "SMA0355",
             "SMA0356",
             "SEL0612",
             "SME0602",
@@ -1280,7 +1272,6 @@
         "type": "Optativa Eletiva",
         "semester": "7",
         "requisites": [
-            "SME0620",
             "SME0822"
         ],
         "reverse_requisites": []
@@ -1404,7 +1395,6 @@
         "type": "Optativa Eletiva",
         "semester": "8",
         "requisites": [
-            "SCC0604",
             "SCC0650"
         ],
         "reverse_requisites": []
