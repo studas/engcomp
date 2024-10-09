@@ -1,0 +1,188 @@
+- [ ] A Ética e a Responsabilidade Social em Engenharia - 1800040
+- [ ] Administração e Empreendedorismo - SEP0529
+- [ ] Administração e Gerenciamento de Redes - SSC0152
+- [ ] Anatomia e Fisiologia para o Engenheiro Biomédico - 1800119
+- [ ] Antenas - SEL0344
+- [ ] Análise Multivariada e Aprendizado Não Supervisionado - SME0822
+- [ ] Aplicação de Microprocessadores - SEL0614
+- [ ] Aplicação de Processamento Digital de Sinais - SEL0356
+- [ ] Aplicações de Inteligência Artificial - SCC0634
+- [ ] Aplicações de Microprocessadores I - SEL0629
+- [ ] Aprendizado de Máquina - SCC0276
+- [ ] Arquitetura de Software - SSC0725
+- [ ] Automação - SEL0406
+- [ ] Avaliação de Desempenho de Sistemas Computacionais - SSC0643
+- [x] Bases de Dados - SCC0640
+- [ ] Bioengenharia Ocular I - SEL0388
+- [ ] Bioengenharia Ocular II - SEL0429
+- [ ] Biomateriais - SMM0307
+- [ ] Biomecânica e Controle Motor - SEM0589
+- [ ] Circuitos Eletrônicos I - SEL0609
+- [ ] Circuitos Eletrônicos II - SEL0613
+- [ ] Circuitos Elétricos - SEL0602
+- [ ] Circuitos Elétricos Lineares em Corrente Contínua - SEL0637
+- [ ] Computação Distribuída - SSC0744
+- [ ] Computação Gráfica - SCC0650
+- [ ] Computação Móvel - SEL0387
+- [ ] Computação de Alto Desempenho - SSC0903
+- [ ] Computação em Nuvem e Arquitetura Orientadas a Serviços - SSC0158
+- [ ] Comunicação Digital - SEL0619
+- [ ] Comunicação Digital II - SEL0347
+- [ ] Comunicações Ópticas - SEL0366
+- [ ] Controle Adaptativo - SEL0367
+- [ ] Controle Digital - SEL0620
+- [ ] Controle de Robôs Manipuladores - SEL0633
+- [ ] Controle de Sistemas Lineares - SEL0326
+- [ ] Criptomoedas e Blockchain - SSC0958
+- [ ] Cálculo I - SMA0353
+- [ ] Cálculo I (semipresencial) - SMA0392
+- [ ] Cálculo II - SMA0354
+- [ ] Cálculo II (semipresencial) - SMA0390
+- [ ] Cálculo III - SMA0355
+- [ ] Cálculo III (semipresencial) - SMA0393
+- [ ] Cálculo IV - SMA0356
+- [ ] Cálculo IV (semipresencial) - SMA0391
+- [ ] Cálculo Numérico - SME0602
+- [ ] Desenho - IAU0678
+- [ ] Desenvolvimento Web e Mobile - SSC0961
+- [ ] Eletromagnetismo - SEL0608
+- [ ] Eletrônica Aplicada a Motores Ci - SMM0166
+- [ ] Empreendedorismo - SSC0570
+- [ ] Engenharia de Segurança - SSC0900
+- [ ] Engenharia de Software - SSC0620
+- [ ] Engenharia de Software para Sistemas Embarcados - SSC0720
+- [ ] Engenharia e Ciência dos Materiais I - SMM0193
+- [ ] Equações Diferenciais Ordinárias - SME0340
+- [ ] Estatística Computacional - SME0806
+- [ ] Estatística I - SME0620
+- [ ] Estrutura de Dados I - SSC0603
+- [ ] Estrutura de Dados II - SCC0606
+- [ ] Estrutura de Dados III - SCC0607
+- [ ] Estágio Empreendedor - SSC0676
+- [ ] Estágio Supervisionado - 1800122
+- [ ] Estágio Supervisionado I - SSC0672
+- [ ] Estágio Supervisionado II - SSC0673
+- [ ] Fenômenos de Transporte - SHS0619
+- [ ] Fundamentos da Manufatura Aditiva - SEM0587
+- [ ] Fundamentos de Controle - SEL0611
+- [ ] Fundamentos de Fotônica - SEL0459
+- [ ] Fundamentos de Mecânica Quântica para Engenharia 1 - SEL0460
+- [ ] Fundamentos de Mecânica Quântica para Engenharia 2 - SEL0461
+- [ ] Fundamentos de Microeletrônica - SEL0617
+- [ ] Fundamentos de Semicondutores - SEL0607
+- [ ] Física I - 7600005
+- [ ] Física II - 7600006
+- [ ] Geometria Analítica - SMA0300
+- [ ] Geometria Analítica (semipresencial) - SMA0394
+- [ ] Gestão Ambiental para Engenheiros - SHS0623
+- [ ] Gestão de Sistemas de Informação - SSC0531
+- [ ] Humanidades e Ciências Sociais - IAU0126
+- [ ] Imagens Radiológicas Digitais - SEL0434
+- [ ] Inteligência Artificial - SCC0630
+- [ ] Internet das Coisas - SSC0952
+- [ ] Introdução ao Desenvolvimento Web - SCC0219
+- [ ] Introdução ao Desenvolvimento de Jogos Eletrônicos - SSC0770
+- [ ] Introdução ao Processamento Digital de Imagens - SEL0449
+- [ ] Introdução à Ciência de Computação I - SSC0600
+- [ ] Introdução à Ciência de Dados - SCC0275
+- [ ] Introdução à Engenharia Biomédica - 1800118
+- [ ] Introdução à Engenharia de Computação - 9700102
+- [ ] Introdução à Engenharia de Reabilitação - SEL0395
+- [ ] Introdução à Instrumentação Eletrônica Biomédica - SEL0396
+- [ ] Introdução à teoria de ondas localizadas - SEL0462
+- [ ] Laboratório de Algoritmos Avançados I - SCC0210
+- [ ] Laboratório de Algoritmos Avançados II - SCC0211
+- [ ] Laboratório de Bases de Dados - SCC0641
+- [ ] Laboratório de Circuitos Eletrônicos - SEL0610
+- [ ] Laboratório de Controle de Processos Industriais - SEL0431
+- [ ] Laboratório de Controle de Sistemas - SEL0328
+- [ ] Laboratório de Engenharia de Segurança - SSC0901
+- [ ] Laboratório de Física Geral I - 7600109
+- [ ] Laboratório de Física Geral II - 7600110
+- [ ] Laboratório de Introdução à Ciência de Computação I - SSC0601
+- [ ] Laboratório de Medidas e Circuitos Elétricos - SEL0441
+- [ ] Laboratório de Robôs Manipuladores - SEL0634
+- [ ] Laboratório de Sistemas Digitais - SEL0606
+- [ ] Laboratório de Telecomunicações - SEL0361
+- [ ] Linguagens de Descrição de Hardware - SEL0632
+- [ ] Mecânica dos Sólidos - SET0623
+- [ ] Micro-ondas - SEL0369
+- [ ] Microscopia Eletrônica de Varredura - SMM0564
+- [ ] Mineração Estatística de Dados - SME0878
+- [ ] Mineração a partir de Grandes Bases de Dados - SCC0244
+- [ ] Modelagem Computacional em Grafos - SCC0216
+- [ ] Modelagem Orientada a Objetos - SSC0621
+- [ ] Modelos de Regressão e Aprendizado  Supervisionado II - SME0823
+- [ ] Modelos de Regressão e Aprendizado Supervisionado I - SME0820
+- [ ] Multimídia e Hipermídia - SCC0661
+- [ ] O Engenheiro Como Agente Ético - 1800043
+- [ ] Ondas Eletromagnéticas - SEL0612
+- [ ] Ondas Eletromagnéticas: Aplicações - SEL0463
+- [ ] Organização e Arquitetura de Computadores - SSC0902
+- [ ] Princípios Físicos de Formação de Imagens Médicas - SEL0397
+- [ ] Princípios de Aviônica e Navegação - SAA0167
+- [ ] Princípios de Comunicação - SEL0616
+- [ ] Princípios de Economia - SEP0587
+- [ ] Processadores Digitais de Sinais e Aplicações - SEL0631
+- [ ] Processamento Digital de Sinais - SEL0615
+- [ ] Processamento de Imagens - SCC0651
+- [ ] Processamento de Linguagem Natural - SCC0633
+- [ ] Processamento e Análise de Imagens - 7600067
+- [ ] Processos Estocásticos - SME0121
+- [ ] Programação Matemática - SME0610
+- [ ] Programação Orientada a Objetos - SCC0604
+- [ ] Programação de Robôs Móveis - SSC0712
+- [ ] Projeto Empreendedor - SSC0675
+- [ ] Projeto de Formatura I - SSC0670
+- [ ] Projeto de Formatura I - SEL0624
+- [ ] Projeto de Formatura II - SSC0674
+- [ ] Projeto e Desenvolvimento de Software de Sistema - SSC0950
+- [ ] Projeto e Implementação de Sistemas Embarcados I - SSC0741
+- [ ] Projeto em Internet das Coisas - SEL0373
+- [ ] Projetos de Circuitos Integrados Analógicos - SEL0618
+- [ ] Projetos de Circuitos Integrados Digitais I - SEL0621
+- [ ] Projetos de Circuitos Integrados Digitais II - SEL0622
+- [ ] Projetos em Avaliação de Imagens Médicas - SEL0398
+- [ ] Projetos em Sistemas Embarcados - SEL0630
+- [ ] Química Geral - 7500012
+- [ ] Química Geral Experimental - 7500017
+- [ ] Redes Complexas - SME0130
+- [ ] Redes Fixas de Comunicação - SEL0370
+- [ ] Redes Móveis - SSC0748
+- [ ] Redes Móveis de Comunicação - SEL0386
+- [ ] Redes Neurais e Aprendizado Profundo - SCC0270
+- [ ] Redes de Computadores - SSC0641
+- [ ] Reuso de Software - SSC0726
+- [ ] Robôs Móveis Autônomos - SSC0714
+- [ ] Robôs Móveis Inteligentes - SCC0273
+- [ ] Seminários em Gestão Organizacional - 5500002
+- [ ] Sensores Inteligentes - SSC0715
+- [ ] Serviços de Telecomunicações e Redes Faixa Larga - SEL0623
+- [ ] Sinais e Sistemas - SEL0604
+- [ ] Sistemas Colaborativos: Fundamentos e Aplicações - SSC0723
+- [ ] Sistemas Computacionais Distribuídos - SSC0904
+- [ ] Sistemas Computacionais Tolerantes a Faltas - SSC0746
+- [ ] Sistemas Computacionais de Tempo-Real - SSC0745
+- [ ] Sistemas Digitais - SEL0628
+- [ ] Sistemas Educacionais Avançados - SSC0724
+- [ ] Sistemas Embarcados - SSC0740
+- [ ] Sistemas Evolutivos e Aplicados à Robótica - SSC0713
+- [ ] Sistemas Operacionais I - SSC0640
+- [ ] Sistemas Operacionais II - SSC0743
+- [ ] Sistemas de Comunicação - SEL0371
+- [ ] Sistemas de Informação - SSC0622
+- [ ] Séries Temporais e Aprendizado Dinâmico - SME0808
+- [ ] Teoria da Computação e Compiladores - SCC0605
+- [ ] Teste e Inspeção de Software - SSC0959
+- [ ] Tutoria Acadêmica I - 1800120
+- [ ] Tutoria Acadêmica II - 1800121
+- [ ] Tópicos Avançados em Inteligência Artificial - SCC0632
+- [ ] Tópicos Especiais em Sistemas Digitais - SEL0338
+- [ ] Veículos Aéreos Autônomos - SEM0576
+- [ ] Veículos Terrestres Autônomos - SEM0575
+- [ ] Visualização Computacional - SCC0252
+- [ ] Visualização Computacional - SCC0652
+- [ ] Visão Computacional - SEL0339
+- [ ] Visão Computacional em Robótica - SEL0635
+- [ ] Álgebra Linear - SMA0304
+- [ ] Óptica de Fourier - SEL0464
