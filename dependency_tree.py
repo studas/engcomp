@@ -79,66 +79,51 @@ def process_code(code, dependent_subjects, positions, subjects, semesters):
     semesters[semester] -= 1
 
     # Retrieve reverse requisites, if any
-    requisites = subjects[code].get('reverse_requisites', [])
+    reverse_requisites = subjects[code].get('reverse_requisites', [])
+    reverse_requisites.sort(key=lambda x: (int(subjects[x]['semester']), -len(subjects[x].get('reverse_requisites', []))))
+    forward_requisites = subjects[code].get('requisites', [])
+    forward_requisites.sort(key=lambda x: (int(subjects[x]['semester']), -len(subjects[x].get('requisites', []))))
+    requisites = reverse_requisites + forward_requisites
+
+    #remove unwanted type from requisites
+    remove_types = ['Optativa Livre', 'Optativa Eletiva']
+    removable = []
+    for req in requisites:
+        if subjects[req]['type'] in remove_types:
+            removable.append(req)
+
+    requisites = [req for req in requisites if req not in removable]
+
     if requisites:
-        # Sort requisites by semester and number of reverse requisites
-        requisites.sort(
-            key=lambda x: (
-                int(subjects[x]['semester']),
-                -len(subjects[x].get('reverse_requisites', []))
-            )
-        )
         for req_code in requisites:
             if req_code in positions:
                 continue 
 
             req_semester = int(subjects[req_code]['semester'])
 
-            heights_between = [
-                semesters[i] for i in range(positions[code][0] + 1, req_semester)
-            ]
+            if req_code in reverse_requisites:
+                heights_between = [semesters[i] for i in range(positions[code][0] + 1, req_semester)]
+            else: # Forward requisites
+                heights_between = [semesters[i] for i in range(req_semester, positions[code][0])]
 
-            if heights_between:
+            should_be_height = semesters[req_semester]
+            if heights_between and should_be_height > min(heights_between):
                 semesters[req_semester] = min(heights_between)
                 
-                for i in range(1, 11):
-                    if i == req_semester:
-                        continue
-                    semesters[i] = semesters[req_semester] - 1
+                if req_code in reverse_requisites:
+                    for i in range(1, req_semester):
+                        semesters[i] = semesters[req_semester] - 1
+                    for i in range(req_semester, 11):
+                        semesters[i] = semesters[req_semester]
+                else: # Forward requisites
+                    for i in range(1, req_semester):
+                        semesters[i] = semesters[req_semester]
+                    for i in range(req_semester, 11):
+                        semesters[i] = semesters[req_semester]-1
 
             process_code(req_code, dependent_subjects, positions, subjects, semesters)
 
-
-    requisites = subjects[code].get('requisites', [])
-    if requisites:
-        # Sort requisites by semester and number of reverse requisites
-        requisites.sort(
-            key=lambda x: (
-                int(subjects[x]['semester']),
-                -len(subjects[x].get('requisites', []))
-            )
-        )
-        for req_code in requisites:
-            if req_code in positions:
-                continue 
-
-            req_semester = int(subjects[req_code]['semester'])
-
-            heights_between = [
-                semesters[i] for i in range(positions[code][0] + 1, req_semester)
-            ]
-
-            if heights_between:
-                semesters[req_semester] = min(heights_between)
-                
-                for i in range(1, 11):
-                    if i == req_semester:
-                        continue
-                    semesters[i] = semesters[req_semester] - 1
-
-            process_code(req_code, dependent_subjects, positions, subjects, semesters)
-
-def process_all_codes(dependent_subjects, positions, subjects, semesters, max_codes=1):
+def process_all_codes(dependent_subjects, positions, subjects, semesters):
     """
     Processes a list of subject codes recursively until a subject without requisites is found.
     
@@ -149,7 +134,7 @@ def process_all_codes(dependent_subjects, positions, subjects, semesters, max_co
         semesters (dict): Dictionary tracking available slots per semester.
         max_codes (int): Maximum number of codes to process initially.
     """
-    codes_to_process = list(dependent_subjects.keys())[:max_codes]
+    codes_to_process = list(dependent_subjects.keys())
     for code in codes_to_process:
         process_code(code, dependent_subjects, positions, subjects, semesters)
 
@@ -163,14 +148,14 @@ if __name__ == "__main__":
 
     subs = dict(sorted(subjects.items(), key=lambda x: (x[1]['semester'], -len(x[1].get('reverse_requisites', [])), -len(x[1].get('requisites', [])), x[1]['type'])))
 
-    dependent_subjects, independent_subjects = separate_subjects_by_dependencies(subs, types=['Obrigatória', 'Optativa Eletiva'])
+    dependent_subjects, independent_subjects = separate_subjects_by_dependencies(subs, types=['Obrigatória'])
 
     recursive = Digraph(name='recursive', format='png', engine='neato')
     recursive.attr(overlap='true', esep='10', splines='spline')
 
     semesters = [0]*11
     positions = {}
-    process_all_codes(dependent_subjects, positions, subjects, semesters, max_codes=10)
+    process_all_codes(dependent_subjects, positions, subjects, semesters)
 
     for code in positions.keys():
         instantiate_painted_node(recursive, subjects, code, positions[code])
@@ -186,7 +171,12 @@ if __name__ == "__main__":
                     recursive.edge(req_code, code)
                 else:
                     inv_code = f"inv_{code}_{req_code}"
-                    inv_pos = (positions[code][0], positions[req_code][1])
+
+                    if positions[code][1] < positions[req_code][1]:
+                        inv_pos = (positions[req_code][0], positions[code][1])
+                    else:
+                        inv_pos = (positions[code][0], positions[req_code][1])
+
                     recursive.node(inv_code, '', pos=f"{inv_pos[0]*8},{inv_pos[1]}!", shape='point', width='0', height='0')
                     recursive.edge(req_code, inv_code, arrowhead='none')
                     recursive.edge(inv_code, code)
