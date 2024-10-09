@@ -4,6 +4,8 @@
         "name": "Física I",
         "type": "Obrigatória",
         "semester": "1",
+        "cred_aula": "5",
+        "cred_trab": "0",
         "requisites": [],
         "reverse_requisites": [
             "SEL0633"
@@ -14,6 +16,8 @@
         "name": "Laboratório de Física Geral I",
         "type": "Obrigatória",
         "semester": "1",
+        "cred_aula": "2",
+        "cred_trab": "0",
         "requisites": [],
         "reverse_requisites": []
     },
@@ -22,6 +26,8 @@
         "name": "Introdução à Engenharia de Computação",
         "type": "Obrigatória",
         "semester": "1",
+        "cred_aula": "2",
+        "cred_trab": "0",
         "requisites": [],
         "reverse_requisites": []
     },
@@ -30,6 +36,8 @@
         "name": "Humanidades e Ciências Sociais",
         "type": "Obrigatória",
         "semester": "1",
+        "cred_aula": "2",
+        "cred_trab": "0",
         "requisites": [],
         "reverse_requisites": []
     },
@@ -38,6 +46,8 @@
         "name": "Desenho",
         "type": "Obrigatória",
         "semester": "1",
+        "cred_aula": "2",
+        "cred_trab": "0",
         "requisites": [],
         "reverse_requisites": [
             "SEM0587"
@@ -48,6 +58,8 @@
         "name": "Geometria Analítica",
         "type": "Obrigatória",
         "semester": "1",
+        "cred_aula": "4",
+        "cred_trab": "0",
         "requisites": [],
         "reverse_requisites": [
             "SMA0394"
@@ -58,6 +70,8 @@
         "name": "Cálculo I",
         "type": "Obrigatória",
         "semester": "1",
+        "cred_aula": "4",
+        "cred_trab": "0",
         "requisites": [],
         "reverse_requisites": [
             "SMA0354",
@@ -72,6 +86,8 @@
         "name": "Introdução à Ciência de Computação I",
         "type": "Obrigatória",
         "semester": "1",
+        "cred_aula": "4",
+        "cred_trab": "1",
         "requisites": [],
         "reverse_requisites": [
             "SSC0603",
@@ -85,6 +101,8 @@
         "name": "Laboratório de Introdução à Ciência de Computação I",
         "type": "Obrigatória",
         "semester": "1",
+        "cred_aula": "2",
+        "cred_trab": "1",
         "requisites": [],
         "reverse_requisites": []
     },
@@ -93,6 +111,8 @@
         "name": "Química Geral",
         "type": "Obrigatória",
         "semester": "2",
+        "cred_aula": "2",
+        "cred_trab": "0",
         "requisites": [],
         "reverse_requisites": [
             "SMM0193"
@@ -103,6 +123,8 @@
         "name": "Química Geral Experimental",
         "type": "Obrigatória",
         "semester": "2",
+        "cred_aula": "2",
+        "cred_trab": "0",
         "requisites": [],
         "reverse_requisites": []
     },
@@ -111,6 +133,8 @@
         "name": "Física II",
         "type": "Obrigatória",
         "semester": "2",
+        "cred_aula": "5",
+        "cred_trab": "0",
         "requisites": [],
         "reverse_requisites": [
             "SHS0619"
@@ -121,6 +145,8 @@
         "name": "Laboratório de Física Geral II",
         "type": "Obrigatória",
         "semester": "2",
+        "cred_aula": "2",
+        "cred_trab": "0",
         "requisites": [],
         "reverse_requisites": []
     },
@@ -129,6 +155,8 @@
         "name": "Circuitos Elétricos Lineares em Corrente Contínua",
         "type": "Obrigatória",
         "semester": "2",
+        "cred_aula": "2",
+        "cred_trab": "0",
         "requisites": [],
         "reverse_requisites": [
             "SEL0602"
@@ -139,6 +167,8 @@
         "name": "Mecânica dos Sólidos",
         "type": "Obrigatória",
         "semester": "2",
+        "cred_aula": "2",
+        "cred_trab": "0",
         "requisites": [],
         "reverse_requisites": []
     },
@@ -147,6 +177,8 @@
         "name": "Álgebra Linear",
         "type": "Obrigatória",
         "semester": "2",
+        "cred_aula": "4",
+        "cred_trab": "0",
         "requisites": [],
         "reverse_requisites": [
             "SME0602",
@@ -158,6 +190,8 @@
         "name": "Cálculo II",
         "type": "Obrigatória",
         "semester": "2",
+        "cred_aula": "4",
+        "cred_trab": "0",
         "requisites": [
             "SMA0353"
         ],
@@ -170,6 +204,8 @@
         "name": "Estrutura de Dados I",
         "type": "Obrigatória",
         "semester": "2",
+        "cred_aula": "4",
+        "cred_trab": "2",
         "requisites": [
             "SSC0600"
         ],
@@ -186,6 +222,8 @@
         "name": "Estrutura de Dados II",
         "type": "Obrigatória",
         "semester": "3",
+        "cred_aula": "4",
+        "cred_trab": "2",
         "requisites": [],
         "reverse_requisites": [
             "SCC0607",
@@ -202,6 +240,8 @@
         "name": "Laboratório de Medidas e Circuitos Elétricos",
         "type": "Obrigatória",
         "semester": "3",
+        "cred_aula": "2",
+        "cred_trab": "0",
         "requisites": [],
         "reverse_requisites": []
     },
@@ -210,6 +250,8 @@
         "name": "Circuitos Elétricos",
         "type": "Obrigatória",
         "semester": "3",
+        "cred_aula": "4",
+        "cred_trab": "0",
         "requisites": [
             "SEL0637"
         ],
@@ -223,6 +265,8 @@
         "name": "Sistemas Digitais",
         "type": "Obrigatória",
         "semester": "3",
+        "cred_aula": "4",
+        "cred_trab": "0",
         "requisites": [],
         "reverse_requisites": [
             "SEL0606",
@@ -236,6 +280,8 @@
         "name": "Fenômenos de Transporte",
         "type": "Obrigatória",
         "semester": "3",
+        "cred_aula": "2",
+        "cred_trab": "0",
         "requisites": [
             "7600006"
         ],
@@ -246,6 +292,8 @@
         "name": "Cálculo III",
         "type": "Obrigatória",
         "semester": "3",
+        "cred_aula": "4",
+        "cred_trab": "0",
         "requisites": [
             "SMA0353"
         ],
@@ -259,6 +307,8 @@
         "name": "Equações Diferenciais Ordinárias",
         "type": "Obrigatória",
         "semester": "3",
+        "cred_aula": "4",
+        "cred_trab": "0",
         "requisites": [],
         "reverse_requisites": [
             "SEL0611"
@@ -269,6 +319,8 @@
         "name": "Cálculo Numérico",
         "type": "Obrigatória",
         "semester": "3",
+        "cred_aula": "4",
+        "cred_trab": "0",
         "requisites": [
             "SMA0304"
         ],
@@ -282,6 +334,8 @@
         "name": "Programação Orientada a Objetos",
         "type": "Obrigatória",
         "semester": "4",
+        "cred_aula": "4",
+        "cred_trab": "2",
         "requisites": [
             "SSC0600"
         ],
@@ -298,6 +352,8 @@
         "name": "Estrutura de Dados III",
         "type": "Obrigatória",
         "semester": "4",
+        "cred_aula": "4",
+        "cred_trab": "1",
         "requisites": [
             "SCC0606"
         ],
@@ -311,6 +367,8 @@
         "name": "Sinais e Sistemas",
         "type": "Obrigatória",
         "semester": "4",
+        "cred_aula": "4",
+        "cred_trab": "0",
         "requisites": [
             "SEL0602"
         ],
@@ -328,6 +386,8 @@
         "name": "Laboratório de Sistemas Digitais",
         "type": "Obrigatória",
         "semester": "4",
+        "cred_aula": "2",
+        "cred_trab": "0",
         "requisites": [
             "SEL0628"
         ],
@@ -338,6 +398,8 @@
         "name": "Fundamentos de Semicondutores",
         "type": "Obrigatória",
         "semester": "4",
+        "cred_aula": "2",
+        "cred_trab": "0",
         "requisites": [],
         "reverse_requisites": [
             "SEL0617",
@@ -349,6 +411,8 @@
         "name": "Eletromagnetismo",
         "type": "Obrigatória",
         "semester": "4",
+        "cred_aula": "4",
+        "cred_trab": "0",
         "requisites": [
             "SMA0355"
         ],
@@ -361,6 +425,8 @@
         "name": "Cálculo IV",
         "type": "Obrigatória",
         "semester": "4",
+        "cred_aula": "4",
+        "cred_trab": "0",
         "requisites": [],
         "reverse_requisites": [
             "SMA0391",
@@ -372,6 +438,8 @@
         "name": "Organização e Arquitetura de Computadores",
         "type": "Obrigatória",
         "semester": "4",
+        "cred_aula": "4",
+        "cred_trab": "1",
         "requisites": [
             "SEL0628"
         ],
@@ -388,6 +456,8 @@
         "name": "Circuitos Eletrônicos I",
         "type": "Obrigatória",
         "semester": "5",
+        "cred_aula": "4",
+        "cred_trab": "0",
         "requisites": [
             "SEL0602"
         ],
@@ -401,6 +471,8 @@
         "name": "Fundamentos de Controle",
         "type": "Obrigatória",
         "semester": "5",
+        "cred_aula": "4",
+        "cred_trab": "0",
         "requisites": [
             "SEL0604",
             "SME0340"
@@ -416,6 +488,8 @@
         "name": "Ondas Eletromagnéticas",
         "type": "Obrigatória",
         "semester": "5",
+        "cred_aula": "4",
+        "cred_trab": "0",
         "requisites": [
             "SEL0608"
         ],
@@ -435,6 +509,8 @@
         "name": "Processamento Digital de Sinais",
         "type": "Obrigatória",
         "semester": "5",
+        "cred_aula": "2",
+        "cred_trab": "0",
         "requisites": [
             "SEL0604"
         ],
@@ -448,6 +524,8 @@
         "name": "Programação Matemática",
         "type": "Obrigatória",
         "semester": "5",
+        "cred_aula": "4",
+        "cred_trab": "0",
         "requisites": [
             "SME0602"
         ],
@@ -458,6 +536,8 @@
         "name": "Estatística I",
         "type": "Obrigatória",
         "semester": "5",
+        "cred_aula": "4",
+        "cred_trab": "0",
         "requisites": [],
         "reverse_requisites": [
             "SME0808",
@@ -473,6 +553,8 @@
         "name": "Sistemas Operacionais I",
         "type": "Obrigatória",
         "semester": "5",
+        "cred_aula": "4",
+        "cred_trab": "2",
         "requisites": [
             "SSC0902",
             "SSC0603"
@@ -491,6 +573,8 @@
         "name": "Bases de Dados",
         "type": "Obrigatória",
         "semester": "6",
+        "cred_aula": "4",
+        "cred_trab": "2",
         "requisites": [
             "SCC0607"
         ],
@@ -504,6 +588,8 @@
         "name": "Laboratório de Circuitos Eletrônicos",
         "type": "Obrigatória",
         "semester": "6",
+        "cred_aula": "2",
+        "cred_trab": "0",
         "requisites": [
             "SEL0609"
         ],
@@ -514,6 +600,8 @@
         "name": "Circuitos Eletrônicos II",
         "type": "Obrigatória",
         "semester": "6",
+        "cred_aula": "4",
+        "cred_trab": "0",
         "requisites": [
             "SEL0609"
         ],
@@ -526,6 +614,8 @@
         "name": "Aplicação de Microprocessadores",
         "type": "Obrigatória",
         "semester": "6",
+        "cred_aula": "2",
+        "cred_trab": "1",
         "requisites": [
             "SSC0902"
         ],
@@ -539,6 +629,8 @@
         "name": "Administração e Empreendedorismo",
         "type": "Obrigatória",
         "semester": "6",
+        "cred_aula": "2",
+        "cred_trab": "0",
         "requisites": [],
         "reverse_requisites": []
     },
@@ -547,6 +639,8 @@
         "name": "Princípios de Economia",
         "type": "Obrigatória",
         "semester": "6",
+        "cred_aula": "2",
+        "cred_trab": "0",
         "requisites": [],
         "reverse_requisites": []
     },
@@ -555,6 +649,8 @@
         "name": "Modelagem Orientada a Objetos",
         "type": "Obrigatória",
         "semester": "6",
+        "cred_aula": "2",
+        "cred_trab": "1",
         "requisites": [
             "SCC0604"
         ],
@@ -568,6 +664,8 @@
         "name": "Redes de Computadores",
         "type": "Obrigatória",
         "semester": "6",
+        "cred_aula": "4",
+        "cred_trab": "2",
         "requisites": [
             "SSC0640"
         ],
@@ -582,6 +680,8 @@
         "name": "Sistemas Computacionais Distribuídos",
         "type": "Obrigatória",
         "semester": "6",
+        "cred_aula": "2",
+        "cred_trab": "1",
         "requisites": [
             "SSC0640"
         ],
@@ -594,6 +694,8 @@
         "name": "Teoria da Computação e Compiladores",
         "type": "Obrigatória",
         "semester": "7",
+        "cred_aula": "4",
+        "cred_trab": "2",
         "requisites": [
             "SCC0606"
         ],
@@ -604,6 +706,8 @@
         "name": "Inteligência Artificial",
         "type": "Obrigatória",
         "semester": "7",
+        "cred_aula": "4",
+        "cred_trab": "1",
         "requisites": [
             "SSC0600"
         ],
@@ -618,6 +722,8 @@
         "name": "Princípios de Comunicação",
         "type": "Obrigatória",
         "semester": "7",
+        "cred_aula": "3",
+        "cred_trab": "0",
         "requisites": [
             "SEL0604"
         ],
@@ -633,6 +739,8 @@
         "name": "Fundamentos de Microeletrônica",
         "type": "Obrigatória",
         "semester": "7",
+        "cred_aula": "2",
+        "cred_trab": "0",
         "requisites": [
             "SEL0607"
         ],
@@ -643,6 +751,8 @@
         "name": "Projetos de Circuitos Integrados Analógicos",
         "type": "Obrigatória",
         "semester": "7",
+        "cred_aula": "2",
+        "cred_trab": "0",
         "requisites": [
             "SEL0613"
         ],
@@ -655,6 +765,8 @@
         "name": "Gestão Ambiental para Engenheiros",
         "type": "Obrigatória",
         "semester": "7",
+        "cred_aula": "2",
+        "cred_trab": "0",
         "requisites": [],
         "reverse_requisites": []
     },
@@ -663,6 +775,8 @@
         "name": "Engenharia de Software",
         "type": "Obrigatória",
         "semester": "7",
+        "cred_aula": "4",
+        "cred_trab": "2",
         "requisites": [
             "SSC0621"
         ],
@@ -678,6 +792,8 @@
         "name": "Computação de Alto Desempenho",
         "type": "Obrigatória",
         "semester": "7",
+        "cred_aula": "4",
+        "cred_trab": "1",
         "requisites": [
             "SSC0640"
         ],
@@ -688,6 +804,8 @@
         "name": "Comunicação Digital",
         "type": "Obrigatória",
         "semester": "8",
+        "cred_aula": "2",
+        "cred_trab": "0",
         "requisites": [
             "SEL0616"
         ],
@@ -701,6 +819,8 @@
         "name": "Controle Digital",
         "type": "Obrigatória",
         "semester": "8",
+        "cred_aula": "4",
+        "cred_trab": "0",
         "requisites": [
             "SEL0611"
         ],
@@ -711,6 +831,8 @@
         "name": "Projetos de Circuitos Integrados Digitais I",
         "type": "Obrigatória",
         "semester": "8",
+        "cred_aula": "2",
+        "cred_trab": "0",
         "requisites": [
             "SEL0618"
         ],
@@ -721,6 +843,8 @@
         "name": "Estágio Supervisionado",
         "type": "Obrigatória",
         "semester": "9",
+        "cred_aula": "0",
+        "cred_trab": "6",
         "requisites": [],
         "reverse_requisites": []
     },
@@ -729,6 +853,8 @@
         "name": "Projeto de Formatura I",
         "type": "Obrigatória",
         "semester": "9",
+        "cred_aula": "0",
+        "cred_trab": "6",
         "requisites": [],
         "reverse_requisites": []
     },
@@ -737,6 +863,8 @@
         "name": "Tutoria Acadêmica I",
         "type": "Optativa Livre",
         "semester": "1",
+        "cred_aula": "1",
+        "cred_trab": "1",
         "requisites": [],
         "reverse_requisites": []
     },
@@ -745,6 +873,8 @@
         "name": "Tutoria Acadêmica II",
         "type": "Optativa Livre",
         "semester": "2",
+        "cred_aula": "1",
+        "cred_trab": "1",
         "requisites": [],
         "reverse_requisites": []
     },
@@ -753,6 +883,8 @@
         "name": "Cálculo I (semipresencial)",
         "type": "Optativa Livre",
         "semester": "3",
+        "cred_aula": "4",
+        "cred_trab": "0",
         "requisites": [
             "SMA0353"
         ],
@@ -763,6 +895,8 @@
         "name": "Geometria Analítica (semipresencial)",
         "type": "Optativa Livre",
         "semester": "3",
+        "cred_aula": "4",
+        "cred_trab": "0",
         "requisites": [
             "SMA0300"
         ],
@@ -773,6 +907,8 @@
         "name": "Cálculo II (semipresencial)",
         "type": "Optativa Livre",
         "semester": "4",
+        "cred_aula": "4",
+        "cred_trab": "0",
         "requisites": [
             "SMA0354"
         ],
@@ -783,6 +919,8 @@
         "name": "Cálculo III (semipresencial)",
         "type": "Optativa Livre",
         "semester": "5",
+        "cred_aula": "4",
+        "cred_trab": "0",
         "requisites": [
             "SMA0355"
         ],
@@ -793,6 +931,8 @@
         "name": "Seminários em Gestão Organizacional",
         "type": "Optativa Livre",
         "semester": "6",
+        "cred_aula": "1",
+        "cred_trab": "1",
         "requisites": [],
         "reverse_requisites": []
     },
@@ -801,6 +941,8 @@
         "name": "Cálculo IV (semipresencial)",
         "type": "Optativa Livre",
         "semester": "6",
+        "cred_aula": "4",
+        "cred_trab": "0",
         "requisites": [
             "SMA0356"
         ],
@@ -811,6 +953,8 @@
         "name": "Microscopia Eletrônica de Varredura",
         "type": "Optativa Livre",
         "semester": "6",
+        "cred_aula": "2",
+        "cred_trab": "0",
         "requisites": [],
         "reverse_requisites": []
     },
@@ -819,6 +963,8 @@
         "name": "Introdução ao Desenvolvimento de Jogos Eletrônicos",
         "type": "Optativa Livre",
         "semester": "6",
+        "cred_aula": "4",
+        "cred_trab": "2",
         "requisites": [
             "SCC0604"
         ],
@@ -829,6 +975,8 @@
         "name": "A Ética e a Responsabilidade Social em Engenharia",
         "type": "Optativa Livre",
         "semester": "7",
+        "cred_aula": "4",
+        "cred_trab": "0",
         "requisites": [],
         "reverse_requisites": [
             "1800043"
@@ -839,6 +987,8 @@
         "name": "O Engenheiro Como Agente Ético",
         "type": "Optativa Livre",
         "semester": "8",
+        "cred_aula": "4",
+        "cred_trab": "0",
         "requisites": [
             "1800040"
         ],
@@ -849,6 +999,8 @@
         "name": "Gestão de Sistemas de Informação",
         "type": "Optativa Eletiva",
         "semester": "2",
+        "cred_aula": "2",
+        "cred_trab": "1",
         "requisites": [],
         "reverse_requisites": []
     },
@@ -857,6 +1009,8 @@
         "name": "Modelagem Computacional em Grafos",
         "type": "Optativa Eletiva",
         "semester": "3",
+        "cred_aula": "2",
+        "cred_trab": "1",
         "requisites": [
             "SSC0603"
         ],
@@ -867,6 +1021,8 @@
         "name": "Introdução à Engenharia Biomédica",
         "type": "Optativa Eletiva",
         "semester": "5",
+        "cred_aula": "2",
+        "cred_trab": "0",
         "requisites": [],
         "reverse_requisites": []
     },
@@ -875,6 +1031,8 @@
         "name": "Laboratório de Algoritmos Avançados I",
         "type": "Optativa Eletiva",
         "semester": "5",
+        "cred_aula": "3",
+        "cred_trab": "2",
         "requisites": [
             "SSC0603",
             "SCC0606"
@@ -886,6 +1044,8 @@
         "name": "Automação",
         "type": "Optativa Eletiva",
         "semester": "5",
+        "cred_aula": "4",
+        "cred_trab": "0",
         "requisites": [
             "SEL0628"
         ],
@@ -898,6 +1058,8 @@
         "name": "Linguagens de Descrição de Hardware",
         "type": "Optativa Eletiva",
         "semester": "5",
+        "cred_aula": "2",
+        "cred_trab": "1",
         "requisites": [
             "SEL0628"
         ],
@@ -908,6 +1070,8 @@
         "name": "Estatística Computacional",
         "type": "Optativa Eletiva",
         "semester": "5",
+        "cred_aula": "4",
+        "cred_trab": "2",
         "requisites": [],
         "reverse_requisites": []
     },
@@ -916,6 +1080,8 @@
         "name": "Modelos de Regressão e Aprendizado Supervisionado I",
         "type": "Optativa Eletiva",
         "semester": "5",
+        "cred_aula": "4",
+        "cred_trab": "1",
         "requisites": [],
         "reverse_requisites": []
     },
@@ -924,6 +1090,8 @@
         "name": "Eletrônica Aplicada a Motores Ci",
         "type": "Optativa Eletiva",
         "semester": "5",
+        "cred_aula": "4",
+        "cred_trab": "0",
         "requisites": [],
         "reverse_requisites": []
     },
@@ -932,6 +1100,8 @@
         "name": "Engenharia e Ciência dos Materiais I",
         "type": "Optativa Eletiva",
         "semester": "5",
+        "cred_aula": "4",
+        "cred_trab": "0",
         "requisites": [
             "7500012"
         ],
@@ -942,6 +1112,8 @@
         "name": "Desenvolvimento Web e Mobile",
         "type": "Optativa Eletiva",
         "semester": "5",
+        "cred_aula": "2",
+        "cred_trab": "1",
         "requisites": [
             "SCC0604"
         ],
@@ -952,6 +1124,8 @@
         "name": "Anatomia e Fisiologia para o Engenheiro Biomédico",
         "type": "Optativa Eletiva",
         "semester": "6",
+        "cred_aula": "2",
+        "cred_trab": "0",
         "requisites": [],
         "reverse_requisites": []
     },
@@ -960,6 +1134,8 @@
         "name": "Laboratório de Algoritmos Avançados II",
         "type": "Optativa Eletiva",
         "semester": "6",
+        "cred_aula": "3",
+        "cred_trab": "2",
         "requisites": [
             "SCC0606",
             "SSC0603"
@@ -971,6 +1147,8 @@
         "name": "Computação Gráfica",
         "type": "Optativa Eletiva",
         "semester": "6",
+        "cred_aula": "3",
+        "cred_trab": "1",
         "requisites": [
             "SCC0604"
         ],
@@ -983,6 +1161,8 @@
         "name": "Antenas",
         "type": "Optativa Eletiva",
         "semester": "6",
+        "cred_aula": "4",
+        "cred_trab": "0",
         "requisites": [
             "SEL0612"
         ],
@@ -993,6 +1173,8 @@
         "name": "Princípios Físicos de Formação de Imagens Médicas",
         "type": "Optativa Eletiva",
         "semester": "6",
+        "cred_aula": "2",
+        "cred_trab": "0",
         "requisites": [],
         "reverse_requisites": [
             "SEL0434",
@@ -1004,6 +1186,8 @@
         "name": "Laboratório de Controle de Processos Industriais",
         "type": "Optativa Eletiva",
         "semester": "6",
+        "cred_aula": "2",
+        "cred_trab": "0",
         "requisites": [
             "SEL0406"
         ],
@@ -1014,6 +1198,8 @@
         "name": "Fundamentos de Fotônica",
         "type": "Optativa Eletiva",
         "semester": "6",
+        "cred_aula": "2",
+        "cred_trab": "0",
         "requisites": [
             "SEL0612",
             "SEL0604"
@@ -1025,6 +1211,8 @@
         "name": "Fundamentos de Mecânica Quântica para Engenharia 1",
         "type": "Optativa Eletiva",
         "semester": "6",
+        "cred_aula": "2",
+        "cred_trab": "0",
         "requisites": [
             "SEL0607",
             "SMA0356",
@@ -1041,6 +1229,8 @@
         "name": "Introdução à teoria de ondas localizadas",
         "type": "Optativa Eletiva",
         "semester": "6",
+        "cred_aula": "2",
+        "cred_trab": "0",
         "requisites": [
             "SEL0612"
         ],
@@ -1051,6 +1241,8 @@
         "name": "Processadores Digitais de Sinais e Aplicações",
         "type": "Optativa Eletiva",
         "semester": "6",
+        "cred_aula": "2",
+        "cred_trab": "0",
         "requisites": [
             "SEL0615"
         ],
@@ -1061,6 +1253,8 @@
         "name": "Séries Temporais e Aprendizado Dinâmico",
         "type": "Optativa Eletiva",
         "semester": "6",
+        "cred_aula": "4",
+        "cred_trab": "0",
         "requisites": [
             "SME0620"
         ],
@@ -1071,6 +1265,8 @@
         "name": "Análise Multivariada e Aprendizado Não Supervisionado",
         "type": "Optativa Eletiva",
         "semester": "6",
+        "cred_aula": "4",
+        "cred_trab": "0",
         "requisites": [
             "SME0620"
         ],
@@ -1083,6 +1279,8 @@
         "name": "Modelos de Regressão e Aprendizado  Supervisionado II",
         "type": "Optativa Eletiva",
         "semester": "6",
+        "cred_aula": "4",
+        "cred_trab": "1",
         "requisites": [
             "SME0620"
         ],
@@ -1093,6 +1291,8 @@
         "name": "Biomateriais",
         "type": "Optativa Eletiva",
         "semester": "6",
+        "cred_aula": "2",
+        "cred_trab": "0",
         "requisites": [],
         "reverse_requisites": []
     },
@@ -1101,6 +1301,8 @@
         "name": "Empreendedorismo",
         "type": "Optativa Eletiva",
         "semester": "6",
+        "cred_aula": "4",
+        "cred_trab": "1",
         "requisites": [],
         "reverse_requisites": []
     },
@@ -1109,6 +1311,8 @@
         "name": "Processamento e Análise de Imagens",
         "type": "Optativa Eletiva",
         "semester": "7",
+        "cred_aula": "3",
+        "cred_trab": "1",
         "requisites": [],
         "reverse_requisites": []
     },
@@ -1117,6 +1321,8 @@
         "name": "Redes Neurais e Aprendizado Profundo",
         "type": "Optativa Eletiva",
         "semester": "7",
+        "cred_aula": "4",
+        "cred_trab": "1",
         "requisites": [],
         "reverse_requisites": []
     },
@@ -1125,6 +1331,8 @@
         "name": "Aprendizado de Máquina",
         "type": "Optativa Eletiva",
         "semester": "7",
+        "cred_aula": "4",
+        "cred_trab": "1",
         "requisites": [],
         "reverse_requisites": []
     },
@@ -1133,6 +1341,8 @@
         "name": "Tópicos Avançados em Inteligência Artificial",
         "type": "Optativa Eletiva",
         "semester": "7",
+        "cred_aula": "2",
+        "cred_trab": "1",
         "requisites": [],
         "reverse_requisites": []
     },
@@ -1141,6 +1351,8 @@
         "name": "Processamento de Linguagem Natural",
         "type": "Optativa Eletiva",
         "semester": "7",
+        "cred_aula": "4",
+        "cred_trab": "1",
         "requisites": [],
         "reverse_requisites": []
     },
@@ -1149,6 +1361,8 @@
         "name": "Processamento de Imagens",
         "type": "Optativa Eletiva",
         "semester": "7",
+        "cred_aula": "3",
+        "cred_trab": "1",
         "requisites": [
             "SCC0606",
             "SSC0603"
@@ -1162,6 +1376,8 @@
         "name": "Tópicos Especiais em Sistemas Digitais",
         "type": "Optativa Eletiva",
         "semester": "7",
+        "cred_aula": "2",
+        "cred_trab": "0",
         "requisites": [
             "SSC0902"
         ],
@@ -1172,6 +1388,8 @@
         "name": "Comunicações Ópticas",
         "type": "Optativa Eletiva",
         "semester": "7",
+        "cred_aula": "3",
+        "cred_trab": "0",
         "requisites": [
             "SEL0612"
         ],
@@ -1182,6 +1400,8 @@
         "name": "Bioengenharia Ocular I",
         "type": "Optativa Eletiva",
         "semester": "7",
+        "cred_aula": "2",
+        "cred_trab": "0",
         "requisites": [],
         "reverse_requisites": [
             "SEL0429"
@@ -1192,6 +1412,8 @@
         "name": "Imagens Radiológicas Digitais",
         "type": "Optativa Eletiva",
         "semester": "7",
+        "cred_aula": "2",
+        "cred_trab": "0",
         "requisites": [
             "SEL0397"
         ],
@@ -1202,6 +1424,8 @@
         "name": "Fundamentos de Mecânica Quântica para Engenharia 2",
         "type": "Optativa Eletiva",
         "semester": "7",
+        "cred_aula": "2",
+        "cred_trab": "2",
         "requisites": [
             "SEL0460"
         ],
@@ -1212,6 +1436,8 @@
         "name": "Aplicações de Microprocessadores I",
         "type": "Optativa Eletiva",
         "semester": "7",
+        "cred_aula": "2",
+        "cred_trab": "1",
         "requisites": [
             "SEL0614"
         ],
@@ -1222,6 +1448,8 @@
         "name": "Veículos Terrestres Autônomos",
         "type": "Optativa Eletiva",
         "semester": "7",
+        "cred_aula": "2",
+        "cred_trab": "1",
         "requisites": [
             "SMA0353"
         ],
@@ -1232,6 +1460,8 @@
         "name": "Veículos Aéreos Autônomos",
         "type": "Optativa Eletiva",
         "semester": "7",
+        "cred_aula": "2",
+        "cred_trab": "1",
         "requisites": [
             "SMA0353"
         ],
@@ -1242,6 +1472,8 @@
         "name": "Biomecânica e Controle Motor",
         "type": "Optativa Eletiva",
         "semester": "7",
+        "cred_aula": "2",
+        "cred_trab": "2",
         "requisites": [],
         "reverse_requisites": []
     },
@@ -1250,6 +1482,8 @@
         "name": "Processos Estocásticos",
         "type": "Optativa Eletiva",
         "semester": "7",
+        "cred_aula": "4",
+        "cred_trab": "0",
         "requisites": [
             "SME0620"
         ],
@@ -1260,6 +1494,8 @@
         "name": "Redes Complexas",
         "type": "Optativa Eletiva",
         "semester": "7",
+        "cred_aula": "4",
+        "cred_trab": "2",
         "requisites": [
             "SSC0600",
             "SME0620"
@@ -1271,6 +1507,8 @@
         "name": "Mineração Estatística de Dados",
         "type": "Optativa Eletiva",
         "semester": "7",
+        "cred_aula": "4",
+        "cred_trab": "2",
         "requisites": [
             "SME0822"
         ],
@@ -1281,6 +1519,8 @@
         "name": "Programação de Robôs Móveis",
         "type": "Optativa Eletiva",
         "semester": "7",
+        "cred_aula": "2",
+        "cred_trab": "3",
         "requisites": [],
         "reverse_requisites": []
     },
@@ -1289,6 +1529,8 @@
         "name": "Robôs Móveis Autônomos",
         "type": "Optativa Eletiva",
         "semester": "7",
+        "cred_aula": "2",
+        "cred_trab": "2",
         "requisites": [],
         "reverse_requisites": []
     },
@@ -1297,6 +1539,8 @@
         "name": "Sistemas Colaborativos: Fundamentos e Aplicações",
         "type": "Optativa Eletiva",
         "semester": "7",
+        "cred_aula": "2",
+        "cred_trab": "0",
         "requisites": [],
         "reverse_requisites": []
     },
@@ -1305,6 +1549,8 @@
         "name": "Arquitetura de Software",
         "type": "Optativa Eletiva",
         "semester": "7",
+        "cred_aula": "2",
+        "cred_trab": "2",
         "requisites": [
             "SSC0621"
         ],
@@ -1315,6 +1561,8 @@
         "name": "Sistemas Embarcados",
         "type": "Optativa Eletiva",
         "semester": "7",
+        "cred_aula": "3",
+        "cred_trab": "2",
         "requisites": [
             "SSC0902"
         ],
@@ -1327,6 +1575,8 @@
         "name": "Sistemas Operacionais II",
         "type": "Optativa Eletiva",
         "semester": "7",
+        "cred_aula": "3",
+        "cred_trab": "2",
         "requisites": [
             "SSC0640"
         ],
@@ -1337,6 +1587,8 @@
         "name": "Engenharia de Segurança",
         "type": "Optativa Eletiva",
         "semester": "7",
+        "cred_aula": "2",
+        "cred_trab": "1",
         "requisites": [
             "SSC0641"
         ],
@@ -1349,6 +1601,8 @@
         "name": "Projeto e Desenvolvimento de Software de Sistema",
         "type": "Optativa Eletiva",
         "semester": "7",
+        "cred_aula": "2",
+        "cred_trab": "2",
         "requisites": [],
         "reverse_requisites": []
     },
@@ -1357,6 +1611,8 @@
         "name": "Internet das Coisas",
         "type": "Optativa Eletiva",
         "semester": "7",
+        "cred_aula": "2",
+        "cred_trab": "2",
         "requisites": [],
         "reverse_requisites": []
     },
@@ -1365,6 +1621,8 @@
         "name": "Princípios de Aviônica e Navegação",
         "type": "Optativa Eletiva",
         "semester": "8",
+        "cred_aula": "4",
+        "cred_trab": "0",
         "requisites": [],
         "reverse_requisites": []
     },
@@ -1373,6 +1631,8 @@
         "name": "Introdução ao Desenvolvimento Web",
         "type": "Optativa Eletiva",
         "semester": "8",
+        "cred_aula": "4",
+        "cred_trab": "1",
         "requisites": [
             "SCC0606"
         ],
@@ -1383,6 +1643,8 @@
         "name": "Mineração a partir de Grandes Bases de Dados",
         "type": "Optativa Eletiva",
         "semester": "8",
+        "cred_aula": "3",
+        "cred_trab": "0",
         "requisites": [
             "SCC0640",
             "SCC0630"
@@ -1394,6 +1656,8 @@
         "name": "Visualização Computacional",
         "type": "Optativa Eletiva",
         "semester": "8",
+        "cred_aula": "3",
+        "cred_trab": "1",
         "requisites": [
             "SCC0650"
         ],
@@ -1404,6 +1668,8 @@
         "name": "Robôs Móveis Inteligentes",
         "type": "Optativa Eletiva",
         "semester": "8",
+        "cred_aula": "2",
+        "cred_trab": "1",
         "requisites": [
             "SCC0606"
         ],
@@ -1414,6 +1680,8 @@
         "name": "Introdução à Ciência de Dados",
         "type": "Optativa Eletiva",
         "semester": "8",
+        "cred_aula": "4",
+        "cred_trab": "1",
         "requisites": [
             "SCC0630"
         ],
@@ -1424,6 +1692,8 @@
         "name": "Laboratório de Bases de Dados",
         "type": "Optativa Eletiva",
         "semester": "8",
+        "cred_aula": "4",
+        "cred_trab": "2",
         "requisites": [
             "SCC0640"
         ],
@@ -1434,6 +1704,8 @@
         "name": "Visualização Computacional",
         "type": "Optativa Eletiva",
         "semester": "8",
+        "cred_aula": "3",
+        "cred_trab": "1",
         "requisites": [
             "SCC0604"
         ],
@@ -1444,6 +1716,8 @@
         "name": "Multimídia e Hipermídia",
         "type": "Optativa Eletiva",
         "semester": "8",
+        "cred_aula": "3",
+        "cred_trab": "2",
         "requisites": [
             "SCC0607"
         ],
@@ -1454,6 +1728,8 @@
         "name": "Controle de Sistemas Lineares",
         "type": "Optativa Eletiva",
         "semester": "8",
+        "cred_aula": "2",
+        "cred_trab": "0",
         "requisites": [
             "SEL0611"
         ],
@@ -1466,6 +1742,8 @@
         "name": "Laboratório de Controle de Sistemas",
         "type": "Optativa Eletiva",
         "semester": "8",
+        "cred_aula": "2",
+        "cred_trab": "0",
         "requisites": [
             "SEL0611"
         ],
@@ -1476,6 +1754,8 @@
         "name": "Visão Computacional",
         "type": "Optativa Eletiva",
         "semester": "8",
+        "cred_aula": "2",
+        "cred_trab": "1",
         "requisites": [
             "SCC0651"
         ],
@@ -1486,6 +1766,8 @@
         "name": "Aplicação de Processamento Digital de Sinais",
         "type": "Optativa Eletiva",
         "semester": "8",
+        "cred_aula": "3",
+        "cred_trab": "2",
         "requisites": [
             "SEL0615"
         ],
@@ -1496,6 +1778,8 @@
         "name": "Laboratório de Telecomunicações",
         "type": "Optativa Eletiva",
         "semester": "8",
+        "cred_aula": "3",
+        "cred_trab": "0",
         "requisites": [
             "SEL0616"
         ],
@@ -1506,6 +1790,8 @@
         "name": "Introdução à Instrumentação Eletrônica Biomédica",
         "type": "Optativa Eletiva",
         "semester": "8",
+        "cred_aula": "2",
+        "cred_trab": "0",
         "requisites": [],
         "reverse_requisites": []
     },
@@ -1514,6 +1800,8 @@
         "name": "Bioengenharia Ocular II",
         "type": "Optativa Eletiva",
         "semester": "8",
+        "cred_aula": "2",
+        "cred_trab": "0",
         "requisites": [
             "SEL0388"
         ],
@@ -1524,6 +1812,8 @@
         "name": "Ondas Eletromagnéticas: Aplicações",
         "type": "Optativa Eletiva",
         "semester": "8",
+        "cred_aula": "3",
+        "cred_trab": "0",
         "requisites": [
             "SEL0612"
         ],
@@ -1534,6 +1824,8 @@
         "name": "Óptica de Fourier",
         "type": "Optativa Eletiva",
         "semester": "8",
+        "cred_aula": "2",
+        "cred_trab": "1",
         "requisites": [
             "SEL0612",
             "SEL0604"
@@ -1545,6 +1837,8 @@
         "name": "Projetos de Circuitos Integrados Digitais II",
         "type": "Optativa Eletiva",
         "semester": "8",
+        "cred_aula": "2",
+        "cred_trab": "1",
         "requisites": [],
         "reverse_requisites": []
     },
@@ -1553,6 +1847,8 @@
         "name": "Projetos em Sistemas Embarcados",
         "type": "Optativa Eletiva",
         "semester": "8",
+        "cred_aula": "2",
+        "cred_trab": "1",
         "requisites": [
             "SEL0614"
         ],
@@ -1565,6 +1861,8 @@
         "name": "Visão Computacional em Robótica",
         "type": "Optativa Eletiva",
         "semester": "8",
+        "cred_aula": "2",
+        "cred_trab": "1",
         "requisites": [],
         "reverse_requisites": []
     },
@@ -1573,6 +1871,8 @@
         "name": "Fundamentos da Manufatura Aditiva",
         "type": "Optativa Eletiva",
         "semester": "8",
+        "cred_aula": "4",
+        "cred_trab": "2",
         "requisites": [
             "IAU0678"
         ],
@@ -1583,6 +1883,8 @@
         "name": "Administração e Gerenciamento de Redes",
         "type": "Optativa Eletiva",
         "semester": "8",
+        "cred_aula": "3",
+        "cred_trab": "2",
         "requisites": [
             "SSC0641"
         ],
@@ -1593,6 +1895,8 @@
         "name": "Sistemas de Informação",
         "type": "Optativa Eletiva",
         "semester": "8",
+        "cred_aula": "3",
+        "cred_trab": "0",
         "requisites": [
             "SSC0620"
         ],
@@ -1603,6 +1907,8 @@
         "name": "Avaliação de Desempenho de Sistemas Computacionais",
         "type": "Optativa Eletiva",
         "semester": "8",
+        "cred_aula": "3",
+        "cred_trab": "1",
         "requisites": [
             "SSC0902"
         ],
@@ -1613,6 +1919,8 @@
         "name": "Sistemas Evolutivos e Aplicados à Robótica",
         "type": "Optativa Eletiva",
         "semester": "8",
+        "cred_aula": "2",
+        "cred_trab": "2",
         "requisites": [],
         "reverse_requisites": []
     },
@@ -1621,6 +1929,8 @@
         "name": "Sensores Inteligentes",
         "type": "Optativa Eletiva",
         "semester": "8",
+        "cred_aula": "2",
+        "cred_trab": "3",
         "requisites": [],
         "reverse_requisites": []
     },
@@ -1629,6 +1939,8 @@
         "name": "Engenharia de Software para Sistemas Embarcados",
         "type": "Optativa Eletiva",
         "semester": "8",
+        "cred_aula": "3",
+        "cred_trab": "1",
         "requisites": [
             "SSC0620"
         ],
@@ -1639,6 +1951,8 @@
         "name": "Sistemas Educacionais Avançados",
         "type": "Optativa Eletiva",
         "semester": "8",
+        "cred_aula": "3",
+        "cred_trab": "0",
         "requisites": [],
         "reverse_requisites": []
     },
@@ -1647,6 +1961,8 @@
         "name": "Reuso de Software",
         "type": "Optativa Eletiva",
         "semester": "8",
+        "cred_aula": "2",
+        "cred_trab": "1",
         "requisites": [
             "SSC0620"
         ],
@@ -1657,6 +1973,8 @@
         "name": "Computação Distribuída",
         "type": "Optativa Eletiva",
         "semester": "8",
+        "cred_aula": "3",
+        "cred_trab": "3",
         "requisites": [
             "SSC0904"
         ],
@@ -1667,6 +1985,8 @@
         "name": "Sistemas Computacionais de Tempo-Real",
         "type": "Optativa Eletiva",
         "semester": "8",
+        "cred_aula": "3",
+        "cred_trab": "0",
         "requisites": [
             "SSC0640"
         ],
@@ -1677,6 +1997,8 @@
         "name": "Redes Móveis",
         "type": "Optativa Eletiva",
         "semester": "8",
+        "cred_aula": "3",
+        "cred_trab": "2",
         "requisites": [
             "SSC0641"
         ],
@@ -1687,6 +2009,8 @@
         "name": "Laboratório de Engenharia de Segurança",
         "type": "Optativa Eletiva",
         "semester": "8",
+        "cred_aula": "2",
+        "cred_trab": "1",
         "requisites": [
             "SSC0900"
         ],
@@ -1697,6 +2021,8 @@
         "name": "Criptomoedas e Blockchain",
         "type": "Optativa Eletiva",
         "semester": "8",
+        "cred_aula": "4",
+        "cred_trab": "2",
         "requisites": [],
         "reverse_requisites": []
     },
@@ -1705,6 +2031,8 @@
         "name": "Comunicação Digital II",
         "type": "Optativa Eletiva",
         "semester": "9",
+        "cred_aula": "2",
+        "cred_trab": "0",
         "requisites": [
             "SEL0619"
         ],
@@ -1715,6 +2043,8 @@
         "name": "Micro-ondas",
         "type": "Optativa Eletiva",
         "semester": "9",
+        "cred_aula": "2",
+        "cred_trab": "0",
         "requisites": [
             "SEL0612"
         ],
@@ -1725,6 +2055,8 @@
         "name": "Redes Fixas de Comunicação",
         "type": "Optativa Eletiva",
         "semester": "9",
+        "cred_aula": "2",
+        "cred_trab": "0",
         "requisites": [
             "SEL0619"
         ],
@@ -1735,6 +2067,8 @@
         "name": "Projeto em Internet das Coisas",
         "type": "Optativa Eletiva",
         "semester": "9",
+        "cred_aula": "4",
+        "cred_trab": "1",
         "requisites": [
             "SEL0630"
         ],
@@ -1745,6 +2079,8 @@
         "name": "Introdução à Engenharia de Reabilitação",
         "type": "Optativa Eletiva",
         "semester": "9",
+        "cred_aula": "2",
+        "cred_trab": "0",
         "requisites": [],
         "reverse_requisites": []
     },
@@ -1753,6 +2089,8 @@
         "name": "Projetos em Avaliação de Imagens Médicas",
         "type": "Optativa Eletiva",
         "semester": "9",
+        "cred_aula": "1",
+        "cred_trab": "1",
         "requisites": [
             "SEL0397"
         ],
@@ -1763,6 +2101,8 @@
         "name": "Introdução ao Processamento Digital de Imagens",
         "type": "Optativa Eletiva",
         "semester": "9",
+        "cred_aula": "2",
+        "cred_trab": "1",
         "requisites": [],
         "reverse_requisites": []
     },
@@ -1771,6 +2111,8 @@
         "name": "Serviços de Telecomunicações e Redes Faixa Larga",
         "type": "Optativa Eletiva",
         "semester": "9",
+        "cred_aula": "3",
+        "cred_trab": "0",
         "requisites": [
             "SEL0616"
         ],
@@ -1781,6 +2123,8 @@
         "name": "Projeto de Formatura I",
         "type": "Optativa Eletiva",
         "semester": "9",
+        "cred_aula": "0",
+        "cred_trab": "6",
         "requisites": [],
         "reverse_requisites": []
     },
@@ -1789,6 +2133,8 @@
         "name": "Controle de Robôs Manipuladores",
         "type": "Optativa Eletiva",
         "semester": "9",
+        "cred_aula": "2",
+        "cred_trab": "0",
         "requisites": [
             "7600005",
             "SMA0304"
@@ -1800,6 +2146,8 @@
         "name": "Laboratório de Robôs Manipuladores",
         "type": "Optativa Eletiva",
         "semester": "9",
+        "cred_aula": "2",
+        "cred_trab": "0",
         "requisites": [],
         "reverse_requisites": []
     },
@@ -1808,6 +2156,8 @@
         "name": "Computação em Nuvem e Arquitetura Orientadas a Serviços",
         "type": "Optativa Eletiva",
         "semester": "9",
+        "cred_aula": "2",
+        "cred_trab": "1",
         "requisites": [],
         "reverse_requisites": []
     },
@@ -1816,6 +2166,8 @@
         "name": "Estágio Supervisionado I",
         "type": "Optativa Eletiva",
         "semester": "9",
+        "cred_aula": "1",
+        "cred_trab": "8",
         "requisites": [],
         "reverse_requisites": []
     },
@@ -1824,6 +2176,8 @@
         "name": "Estágio Empreendedor",
         "type": "Optativa Eletiva",
         "semester": "9",
+        "cred_aula": "4",
+        "cred_trab": "8",
         "requisites": [],
         "reverse_requisites": [
             "SSC0675",
@@ -1835,6 +2189,8 @@
         "name": "Teste e Inspeção de Software",
         "type": "Optativa Eletiva",
         "semester": "9",
+        "cred_aula": "2",
+        "cred_trab": "1",
         "requisites": [
             "SSC0620"
         ],
@@ -1845,6 +2201,8 @@
         "name": "Aplicações de Inteligência Artificial",
         "type": "Optativa Eletiva",
         "semester": "10",
+        "cred_aula": "2",
+        "cred_trab": "1",
         "requisites": [
             "SCC0630"
         ],
@@ -1855,6 +2213,8 @@
         "name": "Controle Adaptativo",
         "type": "Optativa Eletiva",
         "semester": "10",
+        "cred_aula": "2",
+        "cred_trab": "0",
         "requisites": [
             "SME0620",
             "SEL0326"
@@ -1866,6 +2226,8 @@
         "name": "Sistemas de Comunicação",
         "type": "Optativa Eletiva",
         "semester": "10",
+        "cred_aula": "4",
+        "cred_trab": "0",
         "requisites": [
             "SEL0616"
         ],
@@ -1876,6 +2238,8 @@
         "name": "Redes Móveis de Comunicação",
         "type": "Optativa Eletiva",
         "semester": "10",
+        "cred_aula": "2",
+        "cred_trab": "0",
         "requisites": [],
         "reverse_requisites": []
     },
@@ -1884,6 +2248,8 @@
         "name": "Computação Móvel",
         "type": "Optativa Eletiva",
         "semester": "10",
+        "cred_aula": "2",
+        "cred_trab": "0",
         "requisites": [],
         "reverse_requisites": []
     },
@@ -1892,6 +2258,8 @@
         "name": "Estágio Supervisionado II",
         "type": "Optativa Eletiva",
         "semester": "10",
+        "cred_aula": "1",
+        "cred_trab": "8",
         "requisites": [],
         "reverse_requisites": []
     },
@@ -1900,6 +2268,8 @@
         "name": "Projeto de Formatura II",
         "type": "Optativa Eletiva",
         "semester": "10",
+        "cred_aula": "0",
+        "cred_trab": "6",
         "requisites": [],
         "reverse_requisites": []
     },
@@ -1908,6 +2278,8 @@
         "name": "Projeto Empreendedor",
         "type": "Optativa Eletiva",
         "semester": "10",
+        "cred_aula": "4",
+        "cred_trab": "8",
         "requisites": [
             "SSC0676",
             "SSC0676"
@@ -1919,6 +2291,8 @@
         "name": "Projeto e Implementação de Sistemas Embarcados I",
         "type": "Optativa Eletiva",
         "semester": "10",
+        "cred_aula": "3",
+        "cred_trab": "3",
         "requisites": [
             "SSC0740"
         ],
@@ -1929,6 +2303,8 @@
         "name": "Sistemas Computacionais Tolerantes a Faltas",
         "type": "Optativa Eletiva",
         "semester": "10",
+        "cred_aula": "3",
+        "cred_trab": "1",
         "requisites": [
             "SSC0640"
         ],

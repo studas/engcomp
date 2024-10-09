@@ -58,6 +58,8 @@ def parse_subjects(soup):
             # Assuming the subject name is in the next <td>
             name_cell = row.find_all('td')[1]
             subject_name = name_cell.get_text(strip=True)
+            cred_aula = row.find_all('td')[2].get_text(strip=True)
+            cred_trab = row.find_all('td')[3].get_text(strip=True)
 
             # Create the subject entry
             subject = {
@@ -65,6 +67,8 @@ def parse_subjects(soup):
                 'name': subject_name,
                 'type': current_section,
                 'semester': current_semester,
+                'cred_aula': cred_aula,
+                'cred_trab': cred_trab,
                 'requisites': [],
                 'reverse_requisites': []
             }
