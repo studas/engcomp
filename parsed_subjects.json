@@ -1,0 +1,1947 @@
+{
+    "7600005": {
+        "code": "7600005",
+        "name": "Física I",
+        "type": "Obrigatória",
+        "semester": "1",
+        "requisites": [],
+        "reverse_requisites": [
+            "SEL0633"
+        ]
+    },
+    "7600109": {
+        "code": "7600109",
+        "name": "Laboratório de Física Geral I",
+        "type": "Obrigatória",
+        "semester": "1",
+        "requisites": [],
+        "reverse_requisites": []
+    },
+    "9700102": {
+        "code": "9700102",
+        "name": "Introdução à Engenharia de Computação",
+        "type": "Obrigatória",
+        "semester": "1",
+        "requisites": [],
+        "reverse_requisites": []
+    },
+    "IAU0126": {
+        "code": "IAU0126",
+        "name": "Humanidades e Ciências Sociais",
+        "type": "Obrigatória",
+        "semester": "1",
+        "requisites": [],
+        "reverse_requisites": []
+    },
+    "IAU0678": {
+        "code": "IAU0678",
+        "name": "Desenho",
+        "type": "Obrigatória",
+        "semester": "1",
+        "requisites": [],
+        "reverse_requisites": [
+            "SEM0587"
+        ]
+    },
+    "SMA0300": {
+        "code": "SMA0300",
+        "name": "Geometria Analítica",
+        "type": "Obrigatória",
+        "semester": "1",
+        "requisites": [],
+        "reverse_requisites": [
+            "SMA0394"
+        ]
+    },
+    "SMA0353": {
+        "code": "SMA0353",
+        "name": "Cálculo I",
+        "type": "Obrigatória",
+        "semester": "1",
+        "requisites": [],
+        "reverse_requisites": [
+            "SMA0354",
+            "SMA0355",
+            "SMA0392",
+            "SEM0575",
+            "SEM0576"
+        ]
+    },
+    "SSC0600": {
+        "code": "SSC0600",
+        "name": "Introdução à Ciência de Computação I",
+        "type": "Obrigatória",
+        "semester": "1",
+        "requisites": [],
+        "reverse_requisites": [
+            "SSC0603",
+            "SCC0604",
+            "SCC0630",
+            "SME0130"
+        ]
+    },
+    "SSC0601": {
+        "code": "SSC0601",
+        "name": "Laboratório de Introdução à Ciência de Computação I",
+        "type": "Obrigatória",
+        "semester": "1",
+        "requisites": [],
+        "reverse_requisites": []
+    },
+    "7500012": {
+        "code": "7500012",
+        "name": "Química Geral",
+        "type": "Obrigatória",
+        "semester": "2",
+        "requisites": [],
+        "reverse_requisites": [
+            "SMM0193"
+        ]
+    },
+    "7500017": {
+        "code": "7500017",
+        "name": "Química Geral Experimental",
+        "type": "Obrigatória",
+        "semester": "2",
+        "requisites": [],
+        "reverse_requisites": []
+    },
+    "7600006": {
+        "code": "7600006",
+        "name": "Física II",
+        "type": "Obrigatória",
+        "semester": "2",
+        "requisites": [],
+        "reverse_requisites": [
+            "SHS0619"
+        ]
+    },
+    "7600110": {
+        "code": "7600110",
+        "name": "Laboratório de Física Geral II",
+        "type": "Obrigatória",
+        "semester": "2",
+        "requisites": [],
+        "reverse_requisites": []
+    },
+    "SEL0637": {
+        "code": "SEL0637",
+        "name": "Circuitos Elétricos Lineares em Corrente Contínua",
+        "type": "Obrigatória",
+        "semester": "2",
+        "requisites": [],
+        "reverse_requisites": [
+            "SEL0602"
+        ]
+    },
+    "SET0623": {
+        "code": "SET0623",
+        "name": "Mecânica dos Sólidos",
+        "type": "Obrigatória",
+        "semester": "2",
+        "requisites": [],
+        "reverse_requisites": []
+    },
+    "SMA0304": {
+        "code": "SMA0304",
+        "name": "Álgebra Linear",
+        "type": "Obrigatória",
+        "semester": "2",
+        "requisites": [],
+        "reverse_requisites": [
+            "SME0602",
+            "SEL0633"
+        ]
+    },
+    "SMA0354": {
+        "code": "SMA0354",
+        "name": "Cálculo II",
+        "type": "Obrigatória",
+        "semester": "2",
+        "requisites": [
+            "SMA0353"
+        ],
+        "reverse_requisites": [
+            "SMA0390"
+        ]
+    },
+    "SSC0603": {
+        "code": "SSC0603",
+        "name": "Estrutura de Dados I",
+        "type": "Obrigatória",
+        "semester": "2",
+        "requisites": [
+            "SSC0600"
+        ],
+        "reverse_requisites": [
+            "SSC0640",
+            "SCC0216",
+            "SCC0210",
+            "SCC0211",
+            "SCC0651"
+        ]
+    },
+    "SCC0606": {
+        "code": "SCC0606",
+        "name": "Estrutura de Dados II",
+        "type": "Obrigatória",
+        "semester": "3",
+        "requisites": [],
+        "reverse_requisites": [
+            "SCC0607",
+            "SCC0605",
+            "SCC0210",
+            "SCC0211",
+            "SCC0651",
+            "SCC0219",
+            "SCC0273"
+        ]
+    },
+    "SEL0441": {
+        "code": "SEL0441",
+        "name": "Laboratório de Medidas e Circuitos Elétricos",
+        "type": "Obrigatória",
+        "semester": "3",
+        "requisites": [],
+        "reverse_requisites": []
+    },
+    "SEL0602": {
+        "code": "SEL0602",
+        "name": "Circuitos Elétricos",
+        "type": "Obrigatória",
+        "semester": "3",
+        "requisites": [
+            "SEL0637"
+        ],
+        "reverse_requisites": [
+            "SEL0604",
+            "SEL0609",
+            "SEL0616"
+        ]
+    },
+    "SEL0628": {
+        "code": "SEL0628",
+        "name": "Sistemas Digitais",
+        "type": "Obrigatória",
+        "semester": "3",
+        "requisites": [],
+        "reverse_requisites": [
+            "SEL0606",
+            "SSC0902",
+            "SEL0406",
+            "SEL0632"
+        ]
+    },
+    "SHS0619": {
+        "code": "SHS0619",
+        "name": "Fenômenos de Transporte",
+        "type": "Obrigatória",
+        "semester": "3",
+        "requisites": [
+            "7600006"
+        ],
+        "reverse_requisites": []
+    },
+    "SMA0355": {
+        "code": "SMA0355",
+        "name": "Cálculo III",
+        "type": "Obrigatória",
+        "semester": "3",
+        "requisites": [
+            "SMA0353"
+        ],
+        "reverse_requisites": [
+            "SEL0608",
+            "SMA0393",
+            "SEL0460"
+        ]
+    },
+    "SME0340": {
+        "code": "SME0340",
+        "name": "Equações Diferenciais Ordinárias",
+        "type": "Obrigatória",
+        "semester": "3",
+        "requisites": [],
+        "reverse_requisites": [
+            "SEL0611"
+        ]
+    },
+    "SME0602": {
+        "code": "SME0602",
+        "name": "Cálculo Numérico",
+        "type": "Obrigatória",
+        "semester": "3",
+        "requisites": [
+            "SMA0304"
+        ],
+        "reverse_requisites": [
+            "SME0610",
+            "SEL0460"
+        ]
+    },
+    "SCC0604": {
+        "code": "SCC0604",
+        "name": "Programação Orientada a Objetos",
+        "type": "Obrigatória",
+        "semester": "4",
+        "requisites": [
+            "SSC0600"
+        ],
+        "reverse_requisites": [
+            "SSC0621",
+            "SSC0770",
+            "SSC0961",
+            "SCC0650",
+            "SCC0252",
+            "SCC0652"
+        ]
+    },
+    "SCC0607": {
+        "code": "SCC0607",
+        "name": "Estrutura de Dados III",
+        "type": "Obrigatória",
+        "semester": "4",
+        "requisites": [
+            "SCC0606"
+        ],
+        "reverse_requisites": [
+            "SCC0640",
+            "SCC0661"
+        ]
+    },
+    "SEL0604": {
+        "code": "SEL0604",
+        "name": "Sinais e Sistemas",
+        "type": "Obrigatória",
+        "semester": "4",
+        "requisites": [
+            "SEL0602"
+        ],
+        "reverse_requisites": [
+            "SEL0611",
+            "SEL0615",
+            "SEL0616",
+            "SEL0459",
+            "SEL0460",
+            "SEL0464"
+        ]
+    },
+    "SEL0606": {
+        "code": "SEL0606",
+        "name": "Laboratório de Sistemas Digitais",
+        "type": "Obrigatória",
+        "semester": "4",
+        "requisites": [
+            "SEL0628"
+        ],
+        "reverse_requisites": []
+    },
+    "SEL0607": {
+        "code": "SEL0607",
+        "name": "Fundamentos de Semicondutores",
+        "type": "Obrigatória",
+        "semester": "4",
+        "requisites": [],
+        "reverse_requisites": [
+            "SEL0617",
+            "SEL0460"
+        ]
+    },
+    "SEL0608": {
+        "code": "SEL0608",
+        "name": "Eletromagnetismo",
+        "type": "Obrigatória",
+        "semester": "4",
+        "requisites": [
+            "SMA0355"
+        ],
+        "reverse_requisites": [
+            "SEL0612"
+        ]
+    },
+    "SMA0356": {
+        "code": "SMA0356",
+        "name": "Cálculo IV",
+        "type": "Obrigatória",
+        "semester": "4",
+        "requisites": [],
+        "reverse_requisites": [
+            "SMA0391",
+            "SEL0460"
+        ]
+    },
+    "SSC0902": {
+        "code": "SSC0902",
+        "name": "Organização e Arquitetura de Computadores",
+        "type": "Obrigatória",
+        "semester": "4",
+        "requisites": [
+            "SEL0628"
+        ],
+        "reverse_requisites": [
+            "SSC0640",
+            "SEL0614",
+            "SSC0903",
+            "SEL0338",
+            "SSC0740",
+            "SSC0643"
+        ]
+    },
+    "SEL0609": {
+        "code": "SEL0609",
+        "name": "Circuitos Eletrônicos I",
+        "type": "Obrigatória",
+        "semester": "5",
+        "requisites": [
+            "SEL0602"
+        ],
+        "reverse_requisites": [
+            "SEL0610",
+            "SEL0613"
+        ]
+    },
+    "SEL0611": {
+        "code": "SEL0611",
+        "name": "Fundamentos de Controle",
+        "type": "Obrigatória",
+        "semester": "5",
+        "requisites": [
+            "SME0340",
+            "SEL0604"
+        ],
+        "reverse_requisites": [
+            "SEL0620",
+            "SEL0326",
+            "SEL0328"
+        ]
+    },
+    "SEL0612": {
+        "code": "SEL0612",
+        "name": "Ondas Eletromagnéticas",
+        "type": "Obrigatória",
+        "semester": "5",
+        "requisites": [
+            "SEL0608"
+        ],
+        "reverse_requisites": [
+            "SEL0344",
+            "SEL0459",
+            "SEL0460",
+            "SEL0462",
+            "SEL0366",
+            "SEL0463",
+            "SEL0464",
+            "SEL0369"
+        ]
+    },
+    "SEL0615": {
+        "code": "SEL0615",
+        "name": "Processamento Digital de Sinais",
+        "type": "Obrigatória",
+        "semester": "5",
+        "requisites": [
+            "SEL0604"
+        ],
+        "reverse_requisites": [
+            "SEL0631",
+            "SEL0356"
+        ]
+    },
+    "SME0610": {
+        "code": "SME0610",
+        "name": "Programação Matemática",
+        "type": "Obrigatória",
+        "semester": "5",
+        "requisites": [
+            "SME0602"
+        ],
+        "reverse_requisites": []
+    },
+    "SME0620": {
+        "code": "SME0620",
+        "name": "Estatística I",
+        "type": "Obrigatória",
+        "semester": "5",
+        "requisites": [],
+        "reverse_requisites": [
+            "SME0808",
+            "SME0822",
+            "SME0823",
+            "SME0121",
+            "SME0130",
+            "SME0878",
+            "SEL0367"
+        ]
+    },
+    "SSC0640": {
+        "code": "SSC0640",
+        "name": "Sistemas Operacionais I",
+        "type": "Obrigatória",
+        "semester": "5",
+        "requisites": [
+            "SSC0603",
+            "SSC0902"
+        ],
+        "reverse_requisites": [
+            "SSC0641",
+            "SSC0904",
+            "SSC0903",
+            "SSC0743",
+            "SSC0745",
+            "SSC0746"
+        ]
+    },
+    "SCC0640": {
+        "code": "SCC0640",
+        "name": "Bases de Dados",
+        "type": "Obrigatória",
+        "semester": "6",
+        "requisites": [
+            "SCC0607"
+        ],
+        "reverse_requisites": [
+            "SCC0244",
+            "SCC0641"
+        ]
+    },
+    "SEL0610": {
+        "code": "SEL0610",
+        "name": "Laboratório de Circuitos Eletrônicos",
+        "type": "Obrigatória",
+        "semester": "6",
+        "requisites": [
+            "SEL0609"
+        ],
+        "reverse_requisites": []
+    },
+    "SEL0613": {
+        "code": "SEL0613",
+        "name": "Circuitos Eletrônicos II",
+        "type": "Obrigatória",
+        "semester": "6",
+        "requisites": [
+            "SEL0609"
+        ],
+        "reverse_requisites": [
+            "SEL0618"
+        ]
+    },
+    "SEL0614": {
+        "code": "SEL0614",
+        "name": "Aplicação de Microprocessadores",
+        "type": "Obrigatória",
+        "semester": "6",
+        "requisites": [
+            "SSC0902"
+        ],
+        "reverse_requisites": [
+            "SEL0629",
+            "SEL0630"
+        ]
+    },
+    "SEP0529": {
+        "code": "SEP0529",
+        "name": "Administração e Empreendedorismo",
+        "type": "Obrigatória",
+        "semester": "6",
+        "requisites": [],
+        "reverse_requisites": []
+    },
+    "SEP0587": {
+        "code": "SEP0587",
+        "name": "Princípios de Economia",
+        "type": "Obrigatória",
+        "semester": "6",
+        "requisites": [],
+        "reverse_requisites": []
+    },
+    "SSC0621": {
+        "code": "SSC0621",
+        "name": "Modelagem Orientada a Objetos",
+        "type": "Obrigatória",
+        "semester": "6",
+        "requisites": [
+            "SCC0604"
+        ],
+        "reverse_requisites": [
+            "SSC0620",
+            "SSC0725"
+        ]
+    },
+    "SSC0641": {
+        "code": "SSC0641",
+        "name": "Redes de Computadores",
+        "type": "Obrigatória",
+        "semester": "6",
+        "requisites": [
+            "SSC0640"
+        ],
+        "reverse_requisites": [
+            "SSC0900",
+            "SSC0152",
+            "SSC0748"
+        ]
+    },
+    "SSC0904": {
+        "code": "SSC0904",
+        "name": "Sistemas Computacionais Distribuídos",
+        "type": "Obrigatória",
+        "semester": "6",
+        "requisites": [
+            "SSC0640"
+        ],
+        "reverse_requisites": [
+            "SSC0744"
+        ]
+    },
+    "SCC0605": {
+        "code": "SCC0605",
+        "name": "Teoria da Computação e Compiladores",
+        "type": "Obrigatória",
+        "semester": "7",
+        "requisites": [
+            "SCC0606"
+        ],
+        "reverse_requisites": []
+    },
+    "SCC0630": {
+        "code": "SCC0630",
+        "name": "Inteligência Artificial",
+        "type": "Obrigatória",
+        "semester": "7",
+        "requisites": [
+            "SSC0600"
+        ],
+        "reverse_requisites": [
+            "SCC0244",
+            "SCC0275",
+            "SCC0634"
+        ]
+    },
+    "SEL0616": {
+        "code": "SEL0616",
+        "name": "Princípios de Comunicação",
+        "type": "Obrigatória",
+        "semester": "7",
+        "requisites": [
+            "SEL0604",
+            "SEL0602"
+        ],
+        "reverse_requisites": [
+            "SEL0619",
+            "SEL0361",
+            "SEL0623",
+            "SEL0371"
+        ]
+    },
+    "SEL0617": {
+        "code": "SEL0617",
+        "name": "Fundamentos de Microeletrônica",
+        "type": "Obrigatória",
+        "semester": "7",
+        "requisites": [
+            "SEL0607"
+        ],
+        "reverse_requisites": []
+    },
+    "SEL0618": {
+        "code": "SEL0618",
+        "name": "Projetos de Circuitos Integrados Analógicos",
+        "type": "Obrigatória",
+        "semester": "7",
+        "requisites": [
+            "SEL0613"
+        ],
+        "reverse_requisites": [
+            "SEL0621"
+        ]
+    },
+    "SHS0623": {
+        "code": "SHS0623",
+        "name": "Gestão Ambiental para Engenheiros",
+        "type": "Obrigatória",
+        "semester": "7",
+        "requisites": [],
+        "reverse_requisites": []
+    },
+    "SSC0620": {
+        "code": "SSC0620",
+        "name": "Engenharia de Software",
+        "type": "Obrigatória",
+        "semester": "7",
+        "requisites": [
+            "SSC0621"
+        ],
+        "reverse_requisites": [
+            "SSC0622",
+            "SSC0720",
+            "SSC0726",
+            "SSC0959"
+        ]
+    },
+    "SSC0903": {
+        "code": "SSC0903",
+        "name": "Computação de Alto Desempenho",
+        "type": "Obrigatória",
+        "semester": "7",
+        "requisites": [
+            "SSC0902",
+            "SSC0640"
+        ],
+        "reverse_requisites": []
+    },
+    "SEL0619": {
+        "code": "SEL0619",
+        "name": "Comunicação Digital",
+        "type": "Obrigatória",
+        "semester": "8",
+        "requisites": [
+            "SEL0616"
+        ],
+        "reverse_requisites": [
+            "SEL0347",
+            "SEL0370"
+        ]
+    },
+    "SEL0620": {
+        "code": "SEL0620",
+        "name": "Controle Digital",
+        "type": "Obrigatória",
+        "semester": "8",
+        "requisites": [
+            "SEL0611"
+        ],
+        "reverse_requisites": []
+    },
+    "SEL0621": {
+        "code": "SEL0621",
+        "name": "Projetos de Circuitos Integrados Digitais I",
+        "type": "Obrigatória",
+        "semester": "8",
+        "requisites": [
+            "SEL0618"
+        ],
+        "reverse_requisites": []
+    },
+    "1800122": {
+        "code": "1800122",
+        "name": "Estágio Supervisionado",
+        "type": "Obrigatória",
+        "semester": "9",
+        "requisites": [],
+        "reverse_requisites": []
+    },
+    "SSC0670": {
+        "code": "SSC0670",
+        "name": "Projeto de Formatura I",
+        "type": "Obrigatória",
+        "semester": "9",
+        "requisites": [],
+        "reverse_requisites": []
+    },
+    "1800120": {
+        "code": "1800120",
+        "name": "Tutoria Acadêmica I",
+        "type": "Optativa Livre",
+        "semester": "1",
+        "requisites": [],
+        "reverse_requisites": []
+    },
+    "1800121": {
+        "code": "1800121",
+        "name": "Tutoria Acadêmica II",
+        "type": "Optativa Livre",
+        "semester": "2",
+        "requisites": [],
+        "reverse_requisites": []
+    },
+    "SMA0392": {
+        "code": "SMA0392",
+        "name": "Cálculo I (semipresencial)",
+        "type": "Optativa Livre",
+        "semester": "3",
+        "requisites": [
+            "SMA0353"
+        ],
+        "reverse_requisites": []
+    },
+    "SMA0394": {
+        "code": "SMA0394",
+        "name": "Geometria Analítica (semipresencial)",
+        "type": "Optativa Livre",
+        "semester": "3",
+        "requisites": [
+            "SMA0300"
+        ],
+        "reverse_requisites": []
+    },
+    "SMA0390": {
+        "code": "SMA0390",
+        "name": "Cálculo II (semipresencial)",
+        "type": "Optativa Livre",
+        "semester": "4",
+        "requisites": [
+            "SMA0354"
+        ],
+        "reverse_requisites": []
+    },
+    "SMA0393": {
+        "code": "SMA0393",
+        "name": "Cálculo III (semipresencial)",
+        "type": "Optativa Livre",
+        "semester": "5",
+        "requisites": [
+            "SMA0355"
+        ],
+        "reverse_requisites": []
+    },
+    "5500002": {
+        "code": "5500002",
+        "name": "Seminários em Gestão Organizacional",
+        "type": "Optativa Livre",
+        "semester": "6",
+        "requisites": [],
+        "reverse_requisites": []
+    },
+    "SMA0391": {
+        "code": "SMA0391",
+        "name": "Cálculo IV (semipresencial)",
+        "type": "Optativa Livre",
+        "semester": "6",
+        "requisites": [
+            "SMA0356"
+        ],
+        "reverse_requisites": []
+    },
+    "SMM0564": {
+        "code": "SMM0564",
+        "name": "Microscopia Eletrônica de Varredura",
+        "type": "Optativa Livre",
+        "semester": "6",
+        "requisites": [],
+        "reverse_requisites": []
+    },
+    "SSC0770": {
+        "code": "SSC0770",
+        "name": "Introdução ao Desenvolvimento de Jogos Eletrônicos",
+        "type": "Optativa Livre",
+        "semester": "6",
+        "requisites": [
+            "SCC0604"
+        ],
+        "reverse_requisites": []
+    },
+    "1800040": {
+        "code": "1800040",
+        "name": "A Ética e a Responsabilidade Social em Engenharia",
+        "type": "Optativa Livre",
+        "semester": "7",
+        "requisites": [],
+        "reverse_requisites": [
+            "1800043"
+        ]
+    },
+    "1800043": {
+        "code": "1800043",
+        "name": "O Engenheiro Como Agente Ético",
+        "type": "Optativa Livre",
+        "semester": "8",
+        "requisites": [
+            "1800040"
+        ],
+        "reverse_requisites": []
+    },
+    "SSC0531": {
+        "code": "SSC0531",
+        "name": "Gestão de Sistemas de Informação",
+        "type": "Optativa Eletiva",
+        "semester": "2",
+        "requisites": [],
+        "reverse_requisites": []
+    },
+    "SCC0216": {
+        "code": "SCC0216",
+        "name": "Modelagem Computacional em Grafos",
+        "type": "Optativa Eletiva",
+        "semester": "3",
+        "requisites": [
+            "SSC0603"
+        ],
+        "reverse_requisites": []
+    },
+    "1800118": {
+        "code": "1800118",
+        "name": "Introdução à Engenharia Biomédica",
+        "type": "Optativa Eletiva",
+        "semester": "5",
+        "requisites": [],
+        "reverse_requisites": []
+    },
+    "SCC0210": {
+        "code": "SCC0210",
+        "name": "Laboratório de Algoritmos Avançados I",
+        "type": "Optativa Eletiva",
+        "semester": "5",
+        "requisites": [
+            "SCC0606",
+            "SSC0603"
+        ],
+        "reverse_requisites": []
+    },
+    "SEL0406": {
+        "code": "SEL0406",
+        "name": "Automação",
+        "type": "Optativa Eletiva",
+        "semester": "5",
+        "requisites": [
+            "SEL0628"
+        ],
+        "reverse_requisites": [
+            "SEL0431"
+        ]
+    },
+    "SEL0632": {
+        "code": "SEL0632",
+        "name": "Linguagens de Descrição de Hardware",
+        "type": "Optativa Eletiva",
+        "semester": "5",
+        "requisites": [
+            "SEL0628"
+        ],
+        "reverse_requisites": []
+    },
+    "SME0806": {
+        "code": "SME0806",
+        "name": "Estatística Computacional",
+        "type": "Optativa Eletiva",
+        "semester": "5",
+        "requisites": [],
+        "reverse_requisites": []
+    },
+    "SME0820": {
+        "code": "SME0820",
+        "name": "Modelos de Regressão e Aprendizado Supervisionado I",
+        "type": "Optativa Eletiva",
+        "semester": "5",
+        "requisites": [],
+        "reverse_requisites": []
+    },
+    "SMM0166": {
+        "code": "SMM0166",
+        "name": "Eletrônica Aplicada a Motores Ci",
+        "type": "Optativa Eletiva",
+        "semester": "5",
+        "requisites": [],
+        "reverse_requisites": []
+    },
+    "SMM0193": {
+        "code": "SMM0193",
+        "name": "Engenharia e Ciência dos Materiais I",
+        "type": "Optativa Eletiva",
+        "semester": "5",
+        "requisites": [
+            "7500012"
+        ],
+        "reverse_requisites": []
+    },
+    "SSC0961": {
+        "code": "SSC0961",
+        "name": "Desenvolvimento Web e Mobile",
+        "type": "Optativa Eletiva",
+        "semester": "5",
+        "requisites": [
+            "SCC0604"
+        ],
+        "reverse_requisites": []
+    },
+    "1800119": {
+        "code": "1800119",
+        "name": "Anatomia e Fisiologia para o Engenheiro Biomédico",
+        "type": "Optativa Eletiva",
+        "semester": "6",
+        "requisites": [],
+        "reverse_requisites": []
+    },
+    "SCC0211": {
+        "code": "SCC0211",
+        "name": "Laboratório de Algoritmos Avançados II",
+        "type": "Optativa Eletiva",
+        "semester": "6",
+        "requisites": [
+            "SCC0606",
+            "SSC0603"
+        ],
+        "reverse_requisites": []
+    },
+    "SCC0650": {
+        "code": "SCC0650",
+        "name": "Computação Gráfica",
+        "type": "Optativa Eletiva",
+        "semester": "6",
+        "requisites": [
+            "SCC0604"
+        ],
+        "reverse_requisites": [
+            "SCC0252"
+        ]
+    },
+    "SEL0344": {
+        "code": "SEL0344",
+        "name": "Antenas",
+        "type": "Optativa Eletiva",
+        "semester": "6",
+        "requisites": [
+            "SEL0612"
+        ],
+        "reverse_requisites": []
+    },
+    "SEL0397": {
+        "code": "SEL0397",
+        "name": "Princípios Físicos de Formação de Imagens Médicas",
+        "type": "Optativa Eletiva",
+        "semester": "6",
+        "requisites": [],
+        "reverse_requisites": [
+            "SEL0434",
+            "SEL0398"
+        ]
+    },
+    "SEL0431": {
+        "code": "SEL0431",
+        "name": "Laboratório de Controle de Processos Industriais",
+        "type": "Optativa Eletiva",
+        "semester": "6",
+        "requisites": [
+            "SEL0406"
+        ],
+        "reverse_requisites": []
+    },
+    "SEL0459": {
+        "code": "SEL0459",
+        "name": "Fundamentos de Fotônica",
+        "type": "Optativa Eletiva",
+        "semester": "6",
+        "requisites": [
+            "SEL0604",
+            "SEL0612"
+        ],
+        "reverse_requisites": []
+    },
+    "SEL0460": {
+        "code": "SEL0460",
+        "name": "Fundamentos de Mecânica Quântica para Engenharia 1",
+        "type": "Optativa Eletiva",
+        "semester": "6",
+        "requisites": [
+            "SEL0607",
+            "SMA0355",
+            "SMA0356",
+            "SEL0612",
+            "SME0602",
+            "SEL0604"
+        ],
+        "reverse_requisites": [
+            "SEL0461"
+        ]
+    },
+    "SEL0462": {
+        "code": "SEL0462",
+        "name": "Introdução à teoria de ondas localizadas",
+        "type": "Optativa Eletiva",
+        "semester": "6",
+        "requisites": [
+            "SEL0612"
+        ],
+        "reverse_requisites": []
+    },
+    "SEL0631": {
+        "code": "SEL0631",
+        "name": "Processadores Digitais de Sinais e Aplicações",
+        "type": "Optativa Eletiva",
+        "semester": "6",
+        "requisites": [
+            "SEL0615"
+        ],
+        "reverse_requisites": []
+    },
+    "SME0808": {
+        "code": "SME0808",
+        "name": "Séries Temporais e Aprendizado Dinâmico",
+        "type": "Optativa Eletiva",
+        "semester": "6",
+        "requisites": [
+            "SME0620"
+        ],
+        "reverse_requisites": []
+    },
+    "SME0822": {
+        "code": "SME0822",
+        "name": "Análise Multivariada e Aprendizado Não Supervisionado",
+        "type": "Optativa Eletiva",
+        "semester": "6",
+        "requisites": [
+            "SME0620"
+        ],
+        "reverse_requisites": [
+            "SME0878"
+        ]
+    },
+    "SME0823": {
+        "code": "SME0823",
+        "name": "Modelos de Regressão e Aprendizado  Supervisionado II",
+        "type": "Optativa Eletiva",
+        "semester": "6",
+        "requisites": [
+            "SME0620"
+        ],
+        "reverse_requisites": []
+    },
+    "SMM0307": {
+        "code": "SMM0307",
+        "name": "Biomateriais",
+        "type": "Optativa Eletiva",
+        "semester": "6",
+        "requisites": [],
+        "reverse_requisites": []
+    },
+    "SSC0570": {
+        "code": "SSC0570",
+        "name": "Empreendedorismo",
+        "type": "Optativa Eletiva",
+        "semester": "6",
+        "requisites": [],
+        "reverse_requisites": []
+    },
+    "7600067": {
+        "code": "7600067",
+        "name": "Processamento e Análise de Imagens",
+        "type": "Optativa Eletiva",
+        "semester": "7",
+        "requisites": [],
+        "reverse_requisites": []
+    },
+    "SCC0270": {
+        "code": "SCC0270",
+        "name": "Redes Neurais e Aprendizado Profundo",
+        "type": "Optativa Eletiva",
+        "semester": "7",
+        "requisites": [],
+        "reverse_requisites": []
+    },
+    "SCC0276": {
+        "code": "SCC0276",
+        "name": "Aprendizado de Máquina",
+        "type": "Optativa Eletiva",
+        "semester": "7",
+        "requisites": [],
+        "reverse_requisites": []
+    },
+    "SCC0632": {
+        "code": "SCC0632",
+        "name": "Tópicos Avançados em Inteligência Artificial",
+        "type": "Optativa Eletiva",
+        "semester": "7",
+        "requisites": [],
+        "reverse_requisites": []
+    },
+    "SCC0633": {
+        "code": "SCC0633",
+        "name": "Processamento de Linguagem Natural",
+        "type": "Optativa Eletiva",
+        "semester": "7",
+        "requisites": [],
+        "reverse_requisites": []
+    },
+    "SCC0651": {
+        "code": "SCC0651",
+        "name": "Processamento de Imagens",
+        "type": "Optativa Eletiva",
+        "semester": "7",
+        "requisites": [
+            "SCC0606",
+            "SSC0603"
+        ],
+        "reverse_requisites": [
+            "SEL0339"
+        ]
+    },
+    "SEL0338": {
+        "code": "SEL0338",
+        "name": "Tópicos Especiais em Sistemas Digitais",
+        "type": "Optativa Eletiva",
+        "semester": "7",
+        "requisites": [
+            "SSC0902"
+        ],
+        "reverse_requisites": []
+    },
+    "SEL0366": {
+        "code": "SEL0366",
+        "name": "Comunicações Ópticas",
+        "type": "Optativa Eletiva",
+        "semester": "7",
+        "requisites": [
+            "SEL0612"
+        ],
+        "reverse_requisites": []
+    },
+    "SEL0388": {
+        "code": "SEL0388",
+        "name": "Bioengenharia Ocular I",
+        "type": "Optativa Eletiva",
+        "semester": "7",
+        "requisites": [],
+        "reverse_requisites": [
+            "SEL0429"
+        ]
+    },
+    "SEL0434": {
+        "code": "SEL0434",
+        "name": "Imagens Radiológicas Digitais",
+        "type": "Optativa Eletiva",
+        "semester": "7",
+        "requisites": [
+            "SEL0397"
+        ],
+        "reverse_requisites": []
+    },
+    "SEL0461": {
+        "code": "SEL0461",
+        "name": "Fundamentos de Mecânica Quântica para Engenharia 2",
+        "type": "Optativa Eletiva",
+        "semester": "7",
+        "requisites": [
+            "SEL0460"
+        ],
+        "reverse_requisites": []
+    },
+    "SEL0629": {
+        "code": "SEL0629",
+        "name": "Aplicações de Microprocessadores I",
+        "type": "Optativa Eletiva",
+        "semester": "7",
+        "requisites": [
+            "SEL0614"
+        ],
+        "reverse_requisites": []
+    },
+    "SEM0575": {
+        "code": "SEM0575",
+        "name": "Veículos Terrestres Autônomos",
+        "type": "Optativa Eletiva",
+        "semester": "7",
+        "requisites": [
+            "SMA0353"
+        ],
+        "reverse_requisites": []
+    },
+    "SEM0576": {
+        "code": "SEM0576",
+        "name": "Veículos Aéreos Autônomos",
+        "type": "Optativa Eletiva",
+        "semester": "7",
+        "requisites": [
+            "SMA0353"
+        ],
+        "reverse_requisites": []
+    },
+    "SEM0589": {
+        "code": "SEM0589",
+        "name": "Biomecânica e Controle Motor",
+        "type": "Optativa Eletiva",
+        "semester": "7",
+        "requisites": [],
+        "reverse_requisites": []
+    },
+    "SME0121": {
+        "code": "SME0121",
+        "name": "Processos Estocásticos",
+        "type": "Optativa Eletiva",
+        "semester": "7",
+        "requisites": [
+            "SME0620"
+        ],
+        "reverse_requisites": []
+    },
+    "SME0130": {
+        "code": "SME0130",
+        "name": "Redes Complexas",
+        "type": "Optativa Eletiva",
+        "semester": "7",
+        "requisites": [
+            "SSC0600",
+            "SME0620"
+        ],
+        "reverse_requisites": []
+    },
+    "SME0878": {
+        "code": "SME0878",
+        "name": "Mineração Estatística de Dados",
+        "type": "Optativa Eletiva",
+        "semester": "7",
+        "requisites": [
+            "SME0620",
+            "SME0822"
+        ],
+        "reverse_requisites": []
+    },
+    "SSC0712": {
+        "code": "SSC0712",
+        "name": "Programação de Robôs Móveis",
+        "type": "Optativa Eletiva",
+        "semester": "7",
+        "requisites": [],
+        "reverse_requisites": []
+    },
+    "SSC0714": {
+        "code": "SSC0714",
+        "name": "Robôs Móveis Autônomos",
+        "type": "Optativa Eletiva",
+        "semester": "7",
+        "requisites": [],
+        "reverse_requisites": []
+    },
+    "SSC0723": {
+        "code": "SSC0723",
+        "name": "Sistemas Colaborativos: Fundamentos e Aplicações",
+        "type": "Optativa Eletiva",
+        "semester": "7",
+        "requisites": [],
+        "reverse_requisites": []
+    },
+    "SSC0725": {
+        "code": "SSC0725",
+        "name": "Arquitetura de Software",
+        "type": "Optativa Eletiva",
+        "semester": "7",
+        "requisites": [
+            "SSC0621"
+        ],
+        "reverse_requisites": []
+    },
+    "SSC0740": {
+        "code": "SSC0740",
+        "name": "Sistemas Embarcados",
+        "type": "Optativa Eletiva",
+        "semester": "7",
+        "requisites": [
+            "SSC0902"
+        ],
+        "reverse_requisites": [
+            "SSC0741"
+        ]
+    },
+    "SSC0743": {
+        "code": "SSC0743",
+        "name": "Sistemas Operacionais II",
+        "type": "Optativa Eletiva",
+        "semester": "7",
+        "requisites": [
+            "SSC0640"
+        ],
+        "reverse_requisites": []
+    },
+    "SSC0900": {
+        "code": "SSC0900",
+        "name": "Engenharia de Segurança",
+        "type": "Optativa Eletiva",
+        "semester": "7",
+        "requisites": [
+            "SSC0641"
+        ],
+        "reverse_requisites": [
+            "SSC0901"
+        ]
+    },
+    "SSC0950": {
+        "code": "SSC0950",
+        "name": "Projeto e Desenvolvimento de Software de Sistema",
+        "type": "Optativa Eletiva",
+        "semester": "7",
+        "requisites": [],
+        "reverse_requisites": []
+    },
+    "SSC0952": {
+        "code": "SSC0952",
+        "name": "Internet das Coisas",
+        "type": "Optativa Eletiva",
+        "semester": "7",
+        "requisites": [],
+        "reverse_requisites": []
+    },
+    "SAA0167": {
+        "code": "SAA0167",
+        "name": "Princípios de Aviônica e Navegação",
+        "type": "Optativa Eletiva",
+        "semester": "8",
+        "requisites": [],
+        "reverse_requisites": []
+    },
+    "SCC0219": {
+        "code": "SCC0219",
+        "name": "Introdução ao Desenvolvimento Web",
+        "type": "Optativa Eletiva",
+        "semester": "8",
+        "requisites": [
+            "SCC0606"
+        ],
+        "reverse_requisites": []
+    },
+    "SCC0244": {
+        "code": "SCC0244",
+        "name": "Mineração a partir de Grandes Bases de Dados",
+        "type": "Optativa Eletiva",
+        "semester": "8",
+        "requisites": [
+            "SCC0640",
+            "SCC0630"
+        ],
+        "reverse_requisites": []
+    },
+    "SCC0252": {
+        "code": "SCC0252",
+        "name": "Visualização Computacional",
+        "type": "Optativa Eletiva",
+        "semester": "8",
+        "requisites": [
+            "SCC0604",
+            "SCC0650"
+        ],
+        "reverse_requisites": []
+    },
+    "SCC0273": {
+        "code": "SCC0273",
+        "name": "Robôs Móveis Inteligentes",
+        "type": "Optativa Eletiva",
+        "semester": "8",
+        "requisites": [
+            "SCC0606"
+        ],
+        "reverse_requisites": []
+    },
+    "SCC0275": {
+        "code": "SCC0275",
+        "name": "Introdução à Ciência de Dados",
+        "type": "Optativa Eletiva",
+        "semester": "8",
+        "requisites": [
+            "SCC0630"
+        ],
+        "reverse_requisites": []
+    },
+    "SCC0641": {
+        "code": "SCC0641",
+        "name": "Laboratório de Bases de Dados",
+        "type": "Optativa Eletiva",
+        "semester": "8",
+        "requisites": [
+            "SCC0640"
+        ],
+        "reverse_requisites": []
+    },
+    "SCC0652": {
+        "code": "SCC0652",
+        "name": "Visualização Computacional",
+        "type": "Optativa Eletiva",
+        "semester": "8",
+        "requisites": [
+            "SCC0604"
+        ],
+        "reverse_requisites": []
+    },
+    "SCC0661": {
+        "code": "SCC0661",
+        "name": "Multimídia e Hipermídia",
+        "type": "Optativa Eletiva",
+        "semester": "8",
+        "requisites": [
+            "SCC0607"
+        ],
+        "reverse_requisites": []
+    },
+    "SEL0326": {
+        "code": "SEL0326",
+        "name": "Controle de Sistemas Lineares",
+        "type": "Optativa Eletiva",
+        "semester": "8",
+        "requisites": [
+            "SEL0611"
+        ],
+        "reverse_requisites": [
+            "SEL0367"
+        ]
+    },
+    "SEL0328": {
+        "code": "SEL0328",
+        "name": "Laboratório de Controle de Sistemas",
+        "type": "Optativa Eletiva",
+        "semester": "8",
+        "requisites": [
+            "SEL0611"
+        ],
+        "reverse_requisites": []
+    },
+    "SEL0339": {
+        "code": "SEL0339",
+        "name": "Visão Computacional",
+        "type": "Optativa Eletiva",
+        "semester": "8",
+        "requisites": [
+            "SCC0651"
+        ],
+        "reverse_requisites": []
+    },
+    "SEL0356": {
+        "code": "SEL0356",
+        "name": "Aplicação de Processamento Digital de Sinais",
+        "type": "Optativa Eletiva",
+        "semester": "8",
+        "requisites": [
+            "SEL0615"
+        ],
+        "reverse_requisites": []
+    },
+    "SEL0361": {
+        "code": "SEL0361",
+        "name": "Laboratório de Telecomunicações",
+        "type": "Optativa Eletiva",
+        "semester": "8",
+        "requisites": [
+            "SEL0616"
+        ],
+        "reverse_requisites": []
+    },
+    "SEL0396": {
+        "code": "SEL0396",
+        "name": "Introdução à Instrumentação Eletrônica Biomédica",
+        "type": "Optativa Eletiva",
+        "semester": "8",
+        "requisites": [],
+        "reverse_requisites": []
+    },
+    "SEL0429": {
+        "code": "SEL0429",
+        "name": "Bioengenharia Ocular II",
+        "type": "Optativa Eletiva",
+        "semester": "8",
+        "requisites": [
+            "SEL0388"
+        ],
+        "reverse_requisites": []
+    },
+    "SEL0463": {
+        "code": "SEL0463",
+        "name": "Ondas Eletromagnéticas: Aplicações",
+        "type": "Optativa Eletiva",
+        "semester": "8",
+        "requisites": [
+            "SEL0612"
+        ],
+        "reverse_requisites": []
+    },
+    "SEL0464": {
+        "code": "SEL0464",
+        "name": "Óptica de Fourier",
+        "type": "Optativa Eletiva",
+        "semester": "8",
+        "requisites": [
+            "SEL0612",
+            "SEL0604"
+        ],
+        "reverse_requisites": []
+    },
+    "SEL0622": {
+        "code": "SEL0622",
+        "name": "Projetos de Circuitos Integrados Digitais II",
+        "type": "Optativa Eletiva",
+        "semester": "8",
+        "requisites": [],
+        "reverse_requisites": []
+    },
+    "SEL0630": {
+        "code": "SEL0630",
+        "name": "Projetos em Sistemas Embarcados",
+        "type": "Optativa Eletiva",
+        "semester": "8",
+        "requisites": [
+            "SEL0614"
+        ],
+        "reverse_requisites": [
+            "SEL0373"
+        ]
+    },
+    "SEL0635": {
+        "code": "SEL0635",
+        "name": "Visão Computacional em Robótica",
+        "type": "Optativa Eletiva",
+        "semester": "8",
+        "requisites": [],
+        "reverse_requisites": []
+    },
+    "SEM0587": {
+        "code": "SEM0587",
+        "name": "Fundamentos da Manufatura Aditiva",
+        "type": "Optativa Eletiva",
+        "semester": "8",
+        "requisites": [
+            "IAU0678"
+        ],
+        "reverse_requisites": []
+    },
+    "SSC0152": {
+        "code": "SSC0152",
+        "name": "Administração e Gerenciamento de Redes",
+        "type": "Optativa Eletiva",
+        "semester": "8",
+        "requisites": [
+            "SSC0641"
+        ],
+        "reverse_requisites": []
+    },
+    "SSC0622": {
+        "code": "SSC0622",
+        "name": "Sistemas de Informação",
+        "type": "Optativa Eletiva",
+        "semester": "8",
+        "requisites": [
+            "SSC0620"
+        ],
+        "reverse_requisites": []
+    },
+    "SSC0643": {
+        "code": "SSC0643",
+        "name": "Avaliação de Desempenho de Sistemas Computacionais",
+        "type": "Optativa Eletiva",
+        "semester": "8",
+        "requisites": [
+            "SSC0902"
+        ],
+        "reverse_requisites": []
+    },
+    "SSC0713": {
+        "code": "SSC0713",
+        "name": "Sistemas Evolutivos e Aplicados à Robótica",
+        "type": "Optativa Eletiva",
+        "semester": "8",
+        "requisites": [],
+        "reverse_requisites": []
+    },
+    "SSC0715": {
+        "code": "SSC0715",
+        "name": "Sensores Inteligentes",
+        "type": "Optativa Eletiva",
+        "semester": "8",
+        "requisites": [],
+        "reverse_requisites": []
+    },
+    "SSC0720": {
+        "code": "SSC0720",
+        "name": "Engenharia de Software para Sistemas Embarcados",
+        "type": "Optativa Eletiva",
+        "semester": "8",
+        "requisites": [
+            "SSC0620"
+        ],
+        "reverse_requisites": []
+    },
+    "SSC0724": {
+        "code": "SSC0724",
+        "name": "Sistemas Educacionais Avançados",
+        "type": "Optativa Eletiva",
+        "semester": "8",
+        "requisites": [],
+        "reverse_requisites": []
+    },
+    "SSC0726": {
+        "code": "SSC0726",
+        "name": "Reuso de Software",
+        "type": "Optativa Eletiva",
+        "semester": "8",
+        "requisites": [
+            "SSC0620"
+        ],
+        "reverse_requisites": []
+    },
+    "SSC0744": {
+        "code": "SSC0744",
+        "name": "Computação Distribuída",
+        "type": "Optativa Eletiva",
+        "semester": "8",
+        "requisites": [
+            "SSC0904"
+        ],
+        "reverse_requisites": []
+    },
+    "SSC0745": {
+        "code": "SSC0745",
+        "name": "Sistemas Computacionais de Tempo-Real",
+        "type": "Optativa Eletiva",
+        "semester": "8",
+        "requisites": [
+            "SSC0640"
+        ],
+        "reverse_requisites": []
+    },
+    "SSC0748": {
+        "code": "SSC0748",
+        "name": "Redes Móveis",
+        "type": "Optativa Eletiva",
+        "semester": "8",
+        "requisites": [
+            "SSC0641"
+        ],
+        "reverse_requisites": []
+    },
+    "SSC0901": {
+        "code": "SSC0901",
+        "name": "Laboratório de Engenharia de Segurança",
+        "type": "Optativa Eletiva",
+        "semester": "8",
+        "requisites": [
+            "SSC0900"
+        ],
+        "reverse_requisites": []
+    },
+    "SSC0958": {
+        "code": "SSC0958",
+        "name": "Criptomoedas e Blockchain",
+        "type": "Optativa Eletiva",
+        "semester": "8",
+        "requisites": [],
+        "reverse_requisites": []
+    },
+    "SEL0347": {
+        "code": "SEL0347",
+        "name": "Comunicação Digital II",
+        "type": "Optativa Eletiva",
+        "semester": "9",
+        "requisites": [
+            "SEL0619"
+        ],
+        "reverse_requisites": []
+    },
+    "SEL0369": {
+        "code": "SEL0369",
+        "name": "Micro-ondas",
+        "type": "Optativa Eletiva",
+        "semester": "9",
+        "requisites": [
+            "SEL0612"
+        ],
+        "reverse_requisites": []
+    },
+    "SEL0370": {
+        "code": "SEL0370",
+        "name": "Redes Fixas de Comunicação",
+        "type": "Optativa Eletiva",
+        "semester": "9",
+        "requisites": [
+            "SEL0619"
+        ],
+        "reverse_requisites": []
+    },
+    "SEL0373": {
+        "code": "SEL0373",
+        "name": "Projeto em Internet das Coisas",
+        "type": "Optativa Eletiva",
+        "semester": "9",
+        "requisites": [
+            "SEL0630"
+        ],
+        "reverse_requisites": []
+    },
+    "SEL0395": {
+        "code": "SEL0395",
+        "name": "Introdução à Engenharia de Reabilitação",
+        "type": "Optativa Eletiva",
+        "semester": "9",
+        "requisites": [],
+        "reverse_requisites": []
+    },
+    "SEL0398": {
+        "code": "SEL0398",
+        "name": "Projetos em Avaliação de Imagens Médicas",
+        "type": "Optativa Eletiva",
+        "semester": "9",
+        "requisites": [
+            "SEL0397"
+        ],
+        "reverse_requisites": []
+    },
+    "SEL0449": {
+        "code": "SEL0449",
+        "name": "Introdução ao Processamento Digital de Imagens",
+        "type": "Optativa Eletiva",
+        "semester": "9",
+        "requisites": [],
+        "reverse_requisites": []
+    },
+    "SEL0623": {
+        "code": "SEL0623",
+        "name": "Serviços de Telecomunicações e Redes Faixa Larga",
+        "type": "Optativa Eletiva",
+        "semester": "9",
+        "requisites": [
+            "SEL0616"
+        ],
+        "reverse_requisites": []
+    },
+    "SEL0624": {
+        "code": "SEL0624",
+        "name": "Projeto de Formatura I",
+        "type": "Optativa Eletiva",
+        "semester": "9",
+        "requisites": [],
+        "reverse_requisites": []
+    },
+    "SEL0633": {
+        "code": "SEL0633",
+        "name": "Controle de Robôs Manipuladores",
+        "type": "Optativa Eletiva",
+        "semester": "9",
+        "requisites": [
+            "7600005",
+            "SMA0304"
+        ],
+        "reverse_requisites": []
+    },
+    "SEL0634": {
+        "code": "SEL0634",
+        "name": "Laboratório de Robôs Manipuladores",
+        "type": "Optativa Eletiva",
+        "semester": "9",
+        "requisites": [],
+        "reverse_requisites": []
+    },
+    "SSC0158": {
+        "code": "SSC0158",
+        "name": "Computação em Nuvem e Arquitetura Orientadas a Serviços",
+        "type": "Optativa Eletiva",
+        "semester": "9",
+        "requisites": [],
+        "reverse_requisites": []
+    },
+    "SSC0672": {
+        "code": "SSC0672",
+        "name": "Estágio Supervisionado I",
+        "type": "Optativa Eletiva",
+        "semester": "9",
+        "requisites": [],
+        "reverse_requisites": []
+    },
+    "SSC0676": {
+        "code": "SSC0676",
+        "name": "Estágio Empreendedor",
+        "type": "Optativa Eletiva",
+        "semester": "9",
+        "requisites": [],
+        "reverse_requisites": [
+            "SSC0675",
+            "SSC0675"
+        ]
+    },
+    "SSC0959": {
+        "code": "SSC0959",
+        "name": "Teste e Inspeção de Software",
+        "type": "Optativa Eletiva",
+        "semester": "9",
+        "requisites": [
+            "SSC0620"
+        ],
+        "reverse_requisites": []
+    },
+    "SCC0634": {
+        "code": "SCC0634",
+        "name": "Aplicações de Inteligência Artificial",
+        "type": "Optativa Eletiva",
+        "semester": "10",
+        "requisites": [
+            "SCC0630"
+        ],
+        "reverse_requisites": []
+    },
+    "SEL0367": {
+        "code": "SEL0367",
+        "name": "Controle Adaptativo",
+        "type": "Optativa Eletiva",
+        "semester": "10",
+        "requisites": [
+            "SEL0326",
+            "SME0620"
+        ],
+        "reverse_requisites": []
+    },
+    "SEL0371": {
+        "code": "SEL0371",
+        "name": "Sistemas de Comunicação",
+        "type": "Optativa Eletiva",
+        "semester": "10",
+        "requisites": [
+            "SEL0616"
+        ],
+        "reverse_requisites": []
+    },
+    "SEL0386": {
+        "code": "SEL0386",
+        "name": "Redes Móveis de Comunicação",
+        "type": "Optativa Eletiva",
+        "semester": "10",
+        "requisites": [],
+        "reverse_requisites": []
+    },
+    "SEL0387": {
+        "code": "SEL0387",
+        "name": "Computação Móvel",
+        "type": "Optativa Eletiva",
+        "semester": "10",
+        "requisites": [],
+        "reverse_requisites": []
+    },
+    "SSC0673": {
+        "code": "SSC0673",
+        "name": "Estágio Supervisionado II",
+        "type": "Optativa Eletiva",
+        "semester": "10",
+        "requisites": [],
+        "reverse_requisites": []
+    },
+    "SSC0674": {
+        "code": "SSC0674",
+        "name": "Projeto de Formatura II",
+        "type": "Optativa Eletiva",
+        "semester": "10",
+        "requisites": [],
+        "reverse_requisites": []
+    },
+    "SSC0675": {
+        "code": "SSC0675",
+        "name": "Projeto Empreendedor",
+        "type": "Optativa Eletiva",
+        "semester": "10",
+        "requisites": [
+            "SSC0676",
+            "SSC0676"
+        ],
+        "reverse_requisites": []
+    },
+    "SSC0741": {
+        "code": "SSC0741",
+        "name": "Projeto e Implementação de Sistemas Embarcados I",
+        "type": "Optativa Eletiva",
+        "semester": "10",
+        "requisites": [
+            "SSC0740"
+        ],
+        "reverse_requisites": []
+    },
+    "SSC0746": {
+        "code": "SSC0746",
+        "name": "Sistemas Computacionais Tolerantes a Faltas",
+        "type": "Optativa Eletiva",
+        "semester": "10",
+        "requisites": [
+            "SSC0640"
+        ],
+        "reverse_requisites": []
+    }
+}
