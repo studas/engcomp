@@ -17,28 +17,34 @@ if __name__ == "__main__":
         print(e)
         sys.exit()
 
+    #order the subjects by name
+    subjects = dict(sorted(subjects.items(), key=lambda x: x[1]['name']))
+
     folders = []
 
-    for subject in subjects.values():
-        name = subject['name']
-        code = subject['code']
-        semester = subject['semester']
-        tipo = subject['type']
-        cred_aula = subject['cred_aula']
-        cred_trab = subject['cred_trab']
-        string = f"{name} - {code}"
-    
-        if tipo == 'Obrigatória':
-            path = string
-        elif tipo == 'Optativa Eletiva':
-            path = f"01. Eletivas/{string}"
-        elif tipo == 'Optativa Livre':
-            path = f"02. Livres/{string}"
+    with open('ToDo.md', 'w', encoding='utf-8') as todo:
+        for subject in subjects.values():
+            name = subject['name']
+            code = subject['code']
+            semester = subject['semester']
+            tipo = subject['type']
+            cred_aula = subject['cred_aula']
+            cred_trab = subject['cred_trab']
+            string = f"{name} - {code}"
 
-        os.makedirs(path, exist_ok=True)
+            todo.write(f"- [ ] {string}\n")
+        
+            if tipo == 'Obrigatória':
+                path = string
+            elif tipo == 'Optativa Eletiva':
+                path = f"01. Eletivas/{string}"
+            elif tipo == 'Optativa Livre':
+                path = f"02. Livres/{string}"
 
-        #create a file with the subject description
-        with open(f"{path}/info.md", 'w', encoding='utf-8') as file:
-            file.write(f"# {code} - {name}\n{tipo} - {semester}º Período\n{cred_aula} créditos aula e {cred_trab} créditos trabalho\n")
+            os.makedirs(path, exist_ok=True)
+
+            #create a file with the subject description
+            with open(f"{path}/info.md", 'w', encoding='utf-8') as file:
+                file.write(f"# {code} - {name}\n{tipo} - {semester}º Período\n{cred_aula} créditos aula e {cred_trab} créditos trabalho\n")
 
 
