@@ -98,6 +98,48 @@ def parse_subjects(soup):
 
     return subjects_by_code
 
+def get_reachable(courses_dict, start_courses, exclude=None):
+    """
+    Retorna todos os cursos que são alcançáveis a partir dos start_courses.
+    Se exclude estiver definido, exclui esse curso da busca.
+    """
+    visited = set()
+    stack = list(start_courses)
+    while stack:
+        current = stack.pop()
+        if current == exclude:
+            continue
+        if current not in visited:
+            visited.add(current)
+            if current in courses_dict:
+                stack.extend(courses_dict[current]['requisites'])
+    return visited
+
+def remove_transitive_requisites(courses_dict):
+    """
+    Remove pré-requisitos transitivos de cada curso no dicionário
+    e atualiza os reverse_requisites correspondentes.
+    """
+    for course_code, course_info in courses_dict.items():
+        direct_reqs = course_info['requisites']
+        # Criar uma cópia para evitar modificar a lista enquanto itera
+        direct_reqs_copy = direct_reqs.copy()
+        for req in direct_reqs_copy:
+            # Outros pré-requisitos excluindo o atual
+            other_reqs = [r for r in direct_reqs if r != req]
+            # Cursos alcançáveis através dos outros pré-requisitos
+            reachable = get_reachable(courses_dict, other_reqs)
+            if req in reachable:
+                print(f"Removendo {req} de {course_code} porque é transitivo.")
+                direct_reqs.remove(req)
+                # Atualizar reverse_requisites
+                if req in courses_dict:
+                    reverse_reqs = courses_dict[req].get('reverse_requisites', [])
+                    if course_code in reverse_reqs:
+                        reverse_reqs.remove(course_code)
+                        print(f"Removendo {course_code} de reverse_requisites de {req}.")
+    return courses_dict
+
 def main():
     # Path to your HTML file
     html_file = 'grade_curricular.html'
@@ -108,8 +150,9 @@ def main():
     # Parse HTML with BeautifulSoup
     soup = BeautifulSoup(html_content, 'lxml')  # Using 'lxml' parser
 
-    # Parse subjects
-    subjects_by_code = parse_subjects(soup)
+    raw_courses = parse_subjects(soup)
+
+    subjects_by_code = remove_transitive_requisites(raw_courses)
 
     # Optional: Organize subjects by type or semester if needed
     # For example, grouping by type
